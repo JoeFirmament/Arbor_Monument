@@ -71,7 +71,6 @@ export default function TreeExplorer() {
   const [catalog, setCatalog] = useState("全部地区");
   const [grade, setGrade] = useState("全部级别");
   const [selected, setSelected] = useState<TreeRecord | null>(null);
-  const [monumentUid, setMonumentUid] = useState("姑苏区-沧501");
   const [images, setImages] = useState<SpeciesImages>({});
   const [mapReady, setMapReady] = useState(false);
   const mapElementRef = useRef<HTMLDivElement>(null);
@@ -208,8 +207,9 @@ export default function TreeExplorer() {
     [data],
   );
 
-  const monumentTree =
-    wenmiaoTrees.find((tree) => tree.uid === monumentUid) ?? wenmiaoTrees[0];
+  const monumentTree = selected?.catalog === "姑苏区" && selected.address === "孔庙"
+    ? selected
+    : null;
 
   const botanicalNote = monumentTree?.species === "楸树"
     ? {
@@ -224,6 +224,20 @@ export default function TreeExplorer() {
         source: "哈佛阿诺德树木园 · Ginkgo",
         href: "https://arboretum.harvard.edu/plant-bios/ginkgo/",
       };
+
+  useEffect(() => {
+    if (!monumentTree) return;
+    const previousOverflow = document.body.style.overflow;
+    const closeOnEscape = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setSelected(null);
+    };
+    document.body.style.overflow = "hidden";
+    window.addEventListener("keydown", closeOnEscape);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      window.removeEventListener("keydown", closeOnEscape);
+    };
+  }, [monumentTree]);
 
   function focusTree(tree: TreeRecord) {
     setSelected(tree);
@@ -262,81 +276,6 @@ export default function TreeExplorer() {
           <article><strong>{speciesCount || "—"}</strong><span>名录树种</span></article>
           <i />
           <article><strong>{oldest?.age ? `${formatNumber.format(oldest.age)} 年` : "—"}</strong><span>最高树龄</span></article>
-        </div>
-      </section>
-
-      <section className="tree-monument" aria-labelledby="monument-title">
-        <div className="monument-intro">
-          <p className="section-number">第一篇 · 孔庙八木</p>
-          <h2 id="monument-title">以树为碑</h2>
-          <blockquote>碑记人事，树记风雨。</blockquote>
-          <p className="monument-lead">
-            一株树不是建筑的注脚。根系进入土壤，年轮收存旱涝，树皮留下伤痕；它以仍在生长的身体，成为一方土地上没有文字的碑。
-          </p>
-          <div className="monument-context">
-            <span>生长坐标</span>
-            <strong>苏州孔庙</strong>
-            <p>官方名录在此记录 8 株古树：5 株银杏、3 株楸树。孔庙提供坐标，树木承担叙事。</p>
-          </div>
-        </div>
-
-        <div className="monument-body">
-          <div className="tree-stele" aria-live="polite">
-            <div className="ring-field" aria-hidden="true">
-              <i /><i /><i /><i /><i />
-              <span>{monumentTree?.age ?? "—"}</span>
-            </div>
-            {monumentTree ? (
-              <div className="stele-copy">
-                <p>{monumentTree.grade}古树 · 名录编号 {monumentTree.number}</p>
-                <h3>{monumentTree.species}</h3>
-                <em>{monumentTree.scientificName}</em>
-                <div className="stele-measures">
-                  <span><small>名录树龄</small><strong>{monumentTree.age ?? "—"}<b>年</b></strong></span>
-                  <span><small>胸围</small><strong>{monumentTree.girthCm ?? "—"}<b>厘米</b></strong></span>
-                  <span><small>树高</small><strong>{monumentTree.heightM ?? "—"}<b>米</b></strong></span>
-                  <span><small>冠幅</small><strong>{monumentTree.canopyM ?? "—"}<b>米</b></strong></span>
-                </div>
-                <p className="measure-caption">这些数字不是传说，而是 2024 年官方资源普查留下的个体尺度。</p>
-              </div>
-            ) : <p className="loading-state">正在读取树碑……</p>}
-          </div>
-
-          <div className="tree-index" aria-label="选择孔庙古树">
-            {wenmiaoTrees.map((tree, index) => (
-              <button
-                key={tree.uid}
-                className={tree.uid === monumentTree?.uid ? "active" : ""}
-                onClick={() => setMonumentUid(tree.uid)}
-                aria-pressed={tree.uid === monumentTree?.uid}
-              >
-                <span>{String(index + 1).padStart(2, "0")}</span>
-                <strong>{tree.species}</strong>
-                <em>{tree.age} 年</em>
-                <small>{tree.number}</small>
-              </button>
-            ))}
-          </div>
-
-          {monumentTree && (
-            <div className="reading-notes">
-              <article>
-                <span>读树 · {botanicalNote.label}</span>
-                <p>{botanicalNote.text}</p>
-                <a href={botanicalNote.href} target="_blank" rel="noreferrer">{botanicalNote.source} ↗</a>
-              </article>
-              <article>
-                <span>读地 · 只作旁注</span>
-                <p>苏州府学与文庙始建于 1035 年，与范仲淹有关。这里不据此推断任何一株现存古树的栽植者，也不声称它曾见过某位历史人物。</p>
-                <a href="https://dfzb.suzhou.gov.cn/dfzb/szdq/201901/57c24d8ceee54595850596099a7a5c26.shtml" target="_blank" rel="noreferrer">苏州市地方志办公室 ↗</a>
-              </article>
-              <article className="source-method">
-                <span>如何阅读</span>
-                <p><b>树的个体数据</b>来自苏州官方名录；<b>树种知识</b>来自大学植物资料；抒情文字是当代策展表达，不替代史实。</p>
-                <a href={monumentTree.sourceDocument} target="_blank" rel="noreferrer">查看这株树的原始名录 ↗</a>
-              </article>
-            </div>
-          )}
         </div>
       </section>
 
@@ -423,7 +362,83 @@ export default function TreeExplorer() {
           </div>
         </aside>
 
-        {selected && (
+        {monumentTree && (
+          <div className="monument-overlay" role="dialog" aria-modal="true" aria-labelledby="monument-title">
+            <button className="monument-close" onClick={() => setSelected(null)} aria-label="关闭以树为碑专题">×</button>
+            <section className="tree-monument">
+              <div className="monument-intro">
+                <p className="section-number">第一篇 · 孔庙八木</p>
+                <h2 id="monument-title">以树为碑</h2>
+                <blockquote>碑记人事，树记风雨。</blockquote>
+                <p className="monument-lead">
+                  一株树不是建筑的注脚。根系进入土壤，年轮收存旱涝，树皮留下伤痕；它以仍在生长的身体，成为一方土地上没有文字的碑。
+                </p>
+                <div className="monument-context">
+                  <span>生长坐标</span>
+                  <strong>苏州孔庙</strong>
+                  <p>官方名录在此记录 8 株古树：5 株银杏、3 株楸树。孔庙提供坐标，树木承担叙事。</p>
+                </div>
+              </div>
+
+              <div className="monument-body">
+                <div className="tree-stele" aria-live="polite">
+                  <div className="ring-field" aria-hidden="true">
+                    <i /><i /><i /><i /><i />
+                    <span>{monumentTree.age ?? "—"}</span>
+                  </div>
+                  <div className="stele-copy">
+                    <p>{monumentTree.grade}古树 · 名录编号 {monumentTree.number}</p>
+                    <h3>{monumentTree.species}</h3>
+                    <em>{monumentTree.scientificName}</em>
+                    <div className="stele-measures">
+                      <span><small>名录树龄</small><strong>{monumentTree.age ?? "—"}<b>年</b></strong></span>
+                      <span><small>胸围</small><strong>{monumentTree.girthCm ?? "—"}<b>厘米</b></strong></span>
+                      <span><small>树高</small><strong>{monumentTree.heightM ?? "—"}<b>米</b></strong></span>
+                      <span><small>冠幅</small><strong>{monumentTree.canopyM ?? "—"}<b>米</b></strong></span>
+                    </div>
+                    <p className="measure-caption">这些数字不是传说，而是 2024 年官方资源普查留下的个体尺度。</p>
+                  </div>
+                </div>
+
+                <div className="tree-index" aria-label="选择孔庙古树">
+                  {wenmiaoTrees.map((tree, index) => (
+                    <button
+                      key={tree.uid}
+                      className={tree.uid === monumentTree.uid ? "active" : ""}
+                      onClick={() => setSelected(tree)}
+                      aria-pressed={tree.uid === monumentTree.uid}
+                    >
+                      <span>{String(index + 1).padStart(2, "0")}</span>
+                      <strong>{tree.species}</strong>
+                      <em>{tree.age} 年</em>
+                      <small>{tree.number}</small>
+                    </button>
+                  ))}
+                </div>
+
+                <div className="reading-notes">
+                  <article>
+                    <span>读树 · {botanicalNote.label}</span>
+                    <p>{botanicalNote.text}</p>
+                    <a href={botanicalNote.href} target="_blank" rel="noreferrer">{botanicalNote.source} ↗</a>
+                  </article>
+                  <article>
+                    <span>读地 · 只作旁注</span>
+                    <p>苏州府学与文庙始建于 1035 年，与范仲淹有关。这里不据此推断任何一株现存古树的栽植者，也不声称它曾见过某位历史人物。</p>
+                    <a href="https://dfzb.suzhou.gov.cn/dfzb/szdq/201901/57c24d8ceee54595850596099a7a5c26.shtml" target="_blank" rel="noreferrer">苏州市地方志办公室 ↗</a>
+                  </article>
+                  <article className="source-method">
+                    <span>如何阅读</span>
+                    <p><b>树的个体数据</b>来自苏州官方名录；<b>树种知识</b>来自大学植物资料；抒情文字是当代策展表达，不替代史实。</p>
+                    <a href={monumentTree.sourceDocument} target="_blank" rel="noreferrer">查看这株树的原始名录 ↗</a>
+                  </article>
+                </div>
+              </div>
+            </section>
+          </div>
+        )}
+
+        {selected && !monumentTree && (
           <article className="detail-card" aria-label={`${selected.species}详情`}>
             <button className="detail-close" onClick={() => setSelected(null)} aria-label="关闭详情">×</button>
             <div className="detail-kicker"><span style={{ background: gradeColors[selected.grade] }} />{selected.grade}古树 · {gradeLabels[selected.grade]}</div>
