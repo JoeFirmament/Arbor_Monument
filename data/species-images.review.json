@@ -1,0 +1,26 @@
+{
+  "银杏": {
+    "scientificName": "Ginkgo biloba L.",
+    "status": "needs-replacement",
+    "reason": "原候选是带运动模糊的艺术照片，物种虽正确，但不适合作为专业科普主图。",
+    "rejectedPageUrl": "https://commons.wikimedia.org/wiki/File:Ginkgo-Blatt_--_2024_--_6855.jpg"
+  },
+  "瓶兰花": {
+    "scientificName": "Diospyros armata Hemsl.",
+    "status": "taxon-mismatch",
+    "reason": "原候选描绘 Diospyros kaki（柿），不是 Diospyros armata。",
+    "rejectedPageUrl": "https://commons.wikimedia.org/wiki/File:202204_Kaki-persimmon.svg"
+  },
+  "香圆": {
+    "scientificName": "Citrus grandis × junos",
+    "status": "taxon-not-specific",
+    "reason": "原候选只是多种柑橘果实切面，不能证明描绘对象是香圆。",
+    "rejectedPageUrl": "https://commons.wikimedia.org/wiki/File:Citrus_fruits.jpg"
+  },
+  "牛鼻栓": {
+    "scientificName": "Fortunearia sinensis Rehder & E.H.Wilson",
+    "status": "not-an-organism-image",
+    "reason": "原候选只是一本阿诺德树木园公报的 PDF 封面，没有描绘牛鼻栓植株或其辨识特征。",
+    "rejectedPageUrl": "https://commons.wikimedia.org/wiki/File:Bulletin_of_popular_information_-_Arnold_Arboretum,_Harvard_University_(IA_bulletinofpopulaarno_1).pdf"
+  }
+}

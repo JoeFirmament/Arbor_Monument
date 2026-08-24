@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "1.0.0",
+  "approvedSpeciesCount": 61,
+  "approvedIllustrationCount": 58,
+  "excluded": [
+    {
+      "species": "黄杨",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Buxus sinica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012652"
+    },
+    {
+      "species": "香圆",
+      "status": "taxon-not-found",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": null,
+      "treatmentUrl": null
+    },
+    {
+      "species": "枫香",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Liquidambar formosana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557"
+    },
+    {
+      "species": "荷花玉兰",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Magnolia grandiflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008470"
+    },
+    {
+      "species": "龙柏",
+      "status": "parent-taxon-only",
+      "reason": "名录为栽培品种 ‘Kaizuka’，eFloras 图版只到 Juniperus chinensis 物种级。",
+      "matchedName": "Juniperus chinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000896"
+    },
+    {
+      "species": "三角槭",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Acer buergerianum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012930"
+    },
+    {
+      "species": "厚萼凌霄",
+      "status": "taxon-not-found",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": null,
+      "treatmentUrl": null
+    },
+    {
+      "species": "玉兰",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Yulania denudata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090269"
+    },
+    {
+      "species": "龙爪槐",
+      "status": "parent-taxon-only",
+      "reason": "名录为垂枝栽培品种 ‘Pendula’，eFloras 图版只到 Sophora japonica 物种级。",
+      "matchedName": "Styphnolobium japonicum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322"
+    },
+    {
+      "species": "雀梅藤",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Sageretia thea",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013449"
+    },
+    {
+      "species": "日本五针松",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Pinus parviflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005349"
+    },
+    {
+      "species": "石榴",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Punica granatum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014674"
+    },
+    {
+      "species": "枸杞",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Lycium chinense",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020538"
+    },
+    {
+      "species": "板栗",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Castanea mollissima",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006226"
+    },
+    {
+      "species": "楸树",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Catalpa bungei",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200021394"
+    },
+    {
+      "species": "二球悬铃木",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Platanus acerifolia",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010587"
+    },
+    {
+      "species": "琼花",
+      "status": "parent-taxon-only",
+      "reason": "名录名称与图版处理层级不同，当前图版为 Viburnum macrocephalum，需人工确认变种/异名关系。",
+      "matchedName": "Viburnum macrocephalum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022479"
+    },
+    {
+      "species": "女贞",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Ligustrum lucidum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017794"
+    },
+    {
+      "species": "侧柏",
+      "status": "image-unavailable",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Platycladus orientalis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428"
+    },
+    {
+      "species": "佘山羊奶子",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Elaeagnus argyi",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014545"
+    },
+    {
+      "species": "广玉兰",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Magnolia grandiflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008470"
+    },
+    {
+      "species": "山茶",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Camellia japonica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014034"
+    },
+    {
+      "species": "三角枫",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Acer buergerianum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012930"
+    },
+    {
+      "species": "黄檀",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Dalbergia hupeana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012084"
+    },
+    {
+      "species": "枳椇",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Hovenia acerba",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013345"
+    },
+    {
+      "species": "紫楠",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Phoebe sheareri",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009078"
+    },
+    {
+      "species": "茶",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Camellia sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014043"
+    },
+    {
+      "species": "木瓜",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Chaenomeles sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010697"
+    },
+    {
+      "species": "木香花",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Rosa banksiae",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215"
+    },
+    {
+      "species": "单体红山茶",
+      "status": "taxon-not-found",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": null,
+      "treatmentUrl": null
+    },
+    {
+      "species": "枣",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Ziziphus jujuba",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013464"
+    },
+    {
+      "species": "蚊母树",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Distylium racemosum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010545"
+    },
+    {
+      "species": "二乔玉兰",
+      "status": "taxon-not-found",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": null,
+      "treatmentUrl": null
+    },
+    {
+      "species": "瓜子黄杨",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Buxus sinica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012652"
+    },
+    {
+      "species": "厚壳树",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Ehretia acuminata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000488"
+    },
+    {
+      "species": "臭椿",
+      "status": "taxon-not-found",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": null,
+      "treatmentUrl": null
+    },
+    {
+      "species": "胡颓子",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Elaeagnus pungens",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014597"
+    },
+    {
+      "species": "银薇",
+      "status": "parent-taxon-only",
+      "reason": "名录为白花变型 f. alba，eFloras 图版只到 Lagerstroemia indica 物种级。",
+      "matchedName": "Lagerstroemia indica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014643"
+    },
+    {
+      "species": "单瓣黄木香",
+      "status": "no-illustration",
+      "reason": "eFloras 未提供可核验的物种级 Illustration。",
+      "matchedName": "Rosa banksiae",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215"
+    }
+  ]
+}

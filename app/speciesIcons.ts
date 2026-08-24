@@ -55,8 +55,9 @@ export const speciesIcon: Record<string, IconName> = {
   柿子树: "fruit",
   枣: "fruit",
   杨梅: "fruit",
-  香圆: "fruit",
-  瓶兰花: "fruit",
+  // Exact fruit silhouettes are not verified for these catalogue names.
+  香圆: "broadleaf",
+  瓶兰花: "broadleaf",
   枸杞: "fruit",
   枳椇: "fruit",
   木瓜: "fruit",

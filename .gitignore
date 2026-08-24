@@ -21,6 +21,9 @@
 # misc
 .DS_Store
 *.pem
+*.pyc
+*.tsbuildinfo
+/scripts/__pycache__/
 
 # debug
 npm-debug.log*
@@ -37,4 +40,14 @@ yarn-error.log*
 /dist/
 /.wrangler/
 /outputs/
+/output/
 /work/
+
+# Local research caches and review artifacts
+/data/source-cache/
+/data/source-images/
+/data/rejected/
+
+# Research-only images that are not licensed for public redistribution
+/public/images/species/lineart/
+/public/images/wenmiao/fan-zhongyan.png

@@ -18,13 +18,13 @@ async function render() {
   );
 }
 
-test("server-renders the Suzhou ancient-tree explorer", async () => {
+test("server-renders the Trees as Monuments explorer", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /苏州古树志/);
+  assert.match(html, /以树为碑/);
   assert.match(html, /2024 年苏州市古树名木资源普查/);
   assert.match(html, /寻一棵古树/);
   assert.match(html, /点位说明/);

@@ -1,100 +1,66 @@
-# vinext-starter
+# 以树为碑
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+“以树为碑”是一套苏州古树地图与个体叙事 Web 应用。项目以苏州市古树名木公开名录为基础，让使用者从地图或名录选择一株树，再阅读属于这个生命个体的尺度、地点背景、植物学资料与历史线索。
 
-## Prerequisites
+## 当前内容
 
-- Node.js `>=22.13.0`
+- 2,307 株苏州古树的结构化名录
+- 地图浏览、地区与树种筛选、关键字搜索
+- 同树种树龄、树高、胸围与冠幅排名
+- 文庙古树的个体叙事示例
+- 植物图片、来源、许可与署名数据
+- 地方志、园林志、古籍和历史影像研究指南
 
-## Quick Start
+> 名录原附件没有经纬度。当前地图坐标为按所属地区生成的确定性示意点，不代表古树的精确位置。
+
+## 本地运行
+
+需要 Node.js 22.13 或更高版本。
 
 ```bash
 npm install
 npm run dev
-npm run build
 ```
 
-This starter does not use `wrangler.jsonc`.
+默认本地地址为 `http://localhost:3000/`。
 
-## Included Shape
+## 校验与构建
 
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
-
-## Workspace Auth Headers
-
-Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonymous visitors, for whom neither header is present.
-
-The user ID is stable for the same user on the same Site and different across Sites. Email and name are intended for display or contact purposes.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const userId = requestHeaders.get("oai-authenticated-user-id");
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```bash
+npm run validate:media
+npm test
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+`npm test` 会执行完整构建并检查服务端渲染结果。
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+## 主要目录
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
+| 目录 | 内容 |
+|---|---|
+| `app/` | 页面、地图、个体浮层和样式 |
+| `data/` | 古树名录、植物图片元数据和媒体数据模型 |
+| `public/data/` | 浏览器使用的结构化数据 |
+| `public/images/` | 获准公开使用并保留来源信息的页面图片 |
+| `scripts/` | 名录解析、媒体采集、整理和校验工具 |
+| `docs/` | 外部资源、版权边界、媒体模型和地方史料指南 |
 
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
+## 数据来源与使用边界
 
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
+古树基础数据来自苏州市园林和绿化管理局公开的古树名木资源普查名录。植物图片主要来自 Wikimedia Commons 等逐项标明许可的来源；每项素材的作者、原始页面和许可记录保存在数据文件中。
 
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
+公开可访问不等于允许转载。本仓库不包含仅限私人研究使用的 eFloras / Flora of China 墨线图、网页抓取缓存、古籍离线数据库或未获公开授权的图片。详细规则见：
 
-## Useful Commands
+- [`docs/资源与使用指南.md`](docs/资源与使用指南.md)
+- [`docs/苏州古树涉及地方史料指南.md`](docs/苏州古树涉及地方史料指南.md)
+- [`docs/media-data-model.md`](docs/media-data-model.md)
 
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
+## 技术构成
 
-## Learn More
+- React 19
+- Leaflet
+- vinext / Vite
+- Cloudflare Workers 兼容构建
 
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+## 项目状态
+
+项目仍处于研究与内容整理阶段。地方史叙述会区分直接证据、空间关系与时代背景；估测树龄不会被改写为精确栽植年份。

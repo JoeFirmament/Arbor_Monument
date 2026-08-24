@@ -1,0 +1,1777 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": "Flora of China @ eFloras",
+  "sourceUrl": "http://www.efloras.org/flora_page.aspx?flora_id=2",
+  "rightsStatus": "permission-needed-for-publication",
+  "rightsNote": "Stored outside public/ for research and identity review; do not publish until reuse permission is confirmed.",
+  "records": [
+    {
+      "species": "银杏",
+      "catalogScientificName": "Ginkgo biloba L.",
+      "searchTerm": "Ginkgo biloba",
+      "matchedTaxonId": "200005235",
+      "matchedName": "Ginkgo biloba",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005235",
+      "treatmentName": "Ginkgo biloba",
+      "illustrations": [
+        {
+          "objectId": "1203",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1203&flora_id=2",
+          "objectTaxonName": "Ginkgo biloba",
+          "imageUrl": "https://images.mobot.org/mrsid/141/14100001_001.gif",
+          "localPath": "data/source-images/efloras-foc/1203-b2de7b29.gif",
+          "bytes": 171935,
+          "sha256": "859553ba5b88a4301535344c57e4ca4faea4eab5e9ef46d9be1cf0baa0f66815"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "红豆树",
+      "catalogScientificName": "Ormosia hosiei Hemsl. & E. H. Wilson",
+      "searchTerm": "Ormosia hosiei",
+      "matchedTaxonId": "200012244",
+      "matchedName": "Ormosia hosiei",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012244",
+      "treatmentName": "Ormosia hosiei",
+      "illustrations": [
+        {
+          "objectId": "116300",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116300&flora_id=2",
+          "objectTaxonName": "Ormosia hosiei",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-097.jpg",
+          "localPath": "data/source-images/efloras-foc/116300-fbec495c.jpg",
+          "bytes": 185750,
+          "sha256": "cdcd1e5b2544658ee403fa5e3b3b56e3553cb4817202caeb047fe60470a827f6"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "黄杨",
+      "catalogScientificName": "Buxus sinica (Rehder & E. H. Wilson) M. Cheng",
+      "searchTerm": "Buxus sinica",
+      "matchedTaxonId": "200012652",
+      "matchedName": "Buxus sinica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012652",
+      "treatmentName": "Buxus sinica",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "香圆",
+      "catalogScientificName": "Citrus grandis × junos",
+      "searchTerm": "香圆",
+      "status": "taxon-not-found"
+    },
+    {
+      "species": "枫香",
+      "catalogScientificName": "Liquidambar formosana Hance",
+      "searchTerm": "Liquidambar formosana",
+      "matchedTaxonId": "200010557",
+      "matchedName": "Liquidambar formosana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557",
+      "treatmentName": "Liquidambar formosana",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "栓皮栎",
+      "catalogScientificName": "Quercus variabilis Blume",
+      "searchTerm": "Quercus variabilis",
+      "matchedTaxonId": "200006306",
+      "matchedName": "Quercus variabilis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006306",
+      "treatmentName": "Quercus variabilis",
+      "illustrations": [
+        {
+          "objectId": "2297",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2297&flora_id=2",
+          "objectTaxonName": "Quercus variabilis",
+          "imageUrl": "https://images.mobot.org/mrsid/131/13100186_001.gif",
+          "localPath": "data/source-images/efloras-foc/2297-153032f2.gif",
+          "bytes": 113542,
+          "sha256": "5a47860826ea0de25eb456c35d31d8b18568f1ea551f15c01c070fded7a76bd0"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "大叶榉树",
+      "catalogScientificName": "Zelkova schneideriana Hand.-Mazz.",
+      "searchTerm": "Zelkova schneideriana",
+      "matchedTaxonId": "200006333",
+      "matchedName": "Zelkova schneideriana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006333",
+      "treatmentName": "Zelkova schneideriana",
+      "illustrations": [
+        {
+          "objectId": "50139",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50139&flora_id=2",
+          "objectTaxonName": "Zelkova schneideriana",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-017.gif",
+          "localPath": "data/source-images/efloras-foc/50139-2f2367d4.gif",
+          "bytes": 103311,
+          "sha256": "f978b327707f0dc4c3aa241e5fefeed468038c5ccbea3dba5ddc88fc56d1a4a2"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "朴树",
+      "catalogScientificName": "Celtis sinensis Pers.",
+      "searchTerm": "Celtis sinensis",
+      "matchedTaxonId": "200006313",
+      "matchedName": "Celtis sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006313",
+      "treatmentName": "Celtis sinensis",
+      "illustrations": [
+        {
+          "objectId": "50155",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50155&flora_id=2",
+          "objectTaxonName": "Celtis sinensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-025.gif",
+          "localPath": "data/source-images/efloras-foc/50155-b4d405ec.gif",
+          "bytes": 94788,
+          "sha256": "789fe59764f2084c0df90e4619b81ab88a4841edeef2b8b225760e7ebceab023"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "圆柏",
+      "catalogScientificName": "Juniperus chinensis Roxb.",
+      "searchTerm": "Juniperus chinensis",
+      "matchedTaxonId": "210000896",
+      "matchedName": "Juniperus chinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000896",
+      "treatmentName": "Juniperus chinensis",
+      "illustrations": [
+        {
+          "objectId": "4542",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=4542&flora_id=2",
+          "objectTaxonName": "Juniperus chinensis",
+          "imageUrl": "https://images.mobot.org/mrsid/094/09400124_001.gif",
+          "localPath": "data/source-images/efloras-foc/4542-cf50fb6a.gif",
+          "bytes": 136878,
+          "sha256": "ccecb0d5335710e26eb50cfa739dc5bc740fe493dd4dd68bcab54da910342410"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "罗汉松",
+      "catalogScientificName": "Podocarpus macrophyllus (Thunb.) Sweet",
+      "searchTerm": "Podocarpus macrophyllus",
+      "matchedTaxonId": "200005469",
+      "matchedName": "Podocarpus macrophyllus",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005469",
+      "treatmentName": "Podocarpus macrophyllus",
+      "illustrations": [
+        {
+          "objectId": "1336",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1336&flora_id=2",
+          "objectTaxonName": "Podocarpus macrophyllus",
+          "imageUrl": "https://images.mobot.org/mrsid/256/25600047_001.gif",
+          "localPath": "data/source-images/efloras-foc/1336-dc96ad7a.gif",
+          "bytes": 102964,
+          "sha256": "1f976f11be2c320755c7872769417e59385e158b38351d7f58ac00730774fe28"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "香樟",
+      "catalogScientificName": "Camphora officinarum Nees",
+      "searchTerm": "Cinnamomum camphora",
+      "matchedTaxonId": "200008697",
+      "matchedName": "Cinnamomum camphora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697",
+      "treatmentName": "Cinnamomum camphora",
+      "illustrations": [
+        {
+          "objectId": "112098",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=112098&flora_id=2",
+          "objectTaxonName": "Cinnamomum camphora",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_185.jpg",
+          "localPath": "data/source-images/efloras-foc/112098-a86b2d4c.jpg",
+          "bytes": 215753,
+          "sha256": "656717883b365df0f523ef85bd2812b7410dad65255ed87c75694e6b6dd0feca"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "枫杨",
+      "catalogScientificName": "Pterocarya stenoptera C. DC.",
+      "searchTerm": "Pterocarya stenoptera",
+      "matchedTaxonId": "200006121",
+      "matchedName": "Pterocarya stenoptera",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006121",
+      "treatmentName": "Pterocarya stenoptera",
+      "illustrations": [
+        {
+          "objectId": "2174",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2174&flora_id=2",
+          "objectTaxonName": "Pterocarya stenoptera",
+          "imageUrl": "https://images.mobot.org/mrsid/167/16700204_001.gif",
+          "localPath": "data/source-images/efloras-foc/2174-35944324.gif",
+          "bytes": 120537,
+          "sha256": "6ea5b6eb69233e1bbb414f5e557aa4af4a02cfc78d3611c0e06fe05a3d2a15eb"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "凌霄",
+      "catalogScientificName": "Campsis grandiflora (Thunb.) Schum.",
+      "searchTerm": "Campsis grandiflora",
+      "matchedTaxonId": "200021392",
+      "matchedName": "Campsis grandiflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200021392",
+      "treatmentName": "Campsis grandiflora",
+      "illustrations": [
+        {
+          "objectId": "3864",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=3864&flora_id=2",
+          "objectTaxonName": "Campsis grandiflora",
+          "imageUrl": "https://images.mobot.org/mrsid/037/03701484_001.gif",
+          "localPath": "data/source-images/efloras-foc/3864-27d31c9a.gif",
+          "bytes": 79314,
+          "sha256": "00e4535396da387203aa149adbecfe470a294df56948250ef0880aebe249c3a5"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "木樨",
+      "catalogScientificName": "Osmanthus fragrans Lour.",
+      "searchTerm": "Osmanthus fragrans",
+      "matchedTaxonId": "210001392",
+      "matchedName": "Osmanthus fragrans",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
+      "treatmentName": "Osmanthus fragrans",
+      "illustrations": [
+        {
+          "objectId": "4748",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=4748&flora_id=2",
+          "objectTaxonName": "Osmanthus fragrans",
+          "imageUrl": "https://images.mobot.org/mrsid/230/23000499_001.gif",
+          "localPath": "data/source-images/efloras-foc/4748-a09c438d.gif",
+          "bytes": 85432,
+          "sha256": "4469741f097791750ae64e8bf3b340279bfd939c4bab8464dd29510a7652bd25"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "榆树",
+      "catalogScientificName": "Ulmus pumila L.",
+      "searchTerm": "Ulmus pumila",
+      "matchedTaxonId": "200006332",
+      "matchedName": "Ulmus pumila",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006332",
+      "treatmentName": "Ulmus pumila",
+      "illustrations": [
+        {
+          "objectId": "50124",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+          "objectTaxonName": "Ulmus pumila",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-008.gif",
+          "localPath": "data/source-images/efloras-foc/50124-10cc6bb4.gif",
+          "bytes": 104777,
+          "sha256": "f088caadd937b97b2e0ecda66fe782febe116679292f506ff0be55966b5eb9f2"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "荷花玉兰",
+      "catalogScientificName": "Magnolia grandiflora L.",
+      "searchTerm": "Magnolia grandiflora",
+      "matchedTaxonId": "200008470",
+      "matchedName": "Magnolia grandiflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008470",
+      "treatmentName": "Magnolia grandiflora",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "龙柏",
+      "catalogScientificName": "Sabina chinensis cv. Kaizuca",
+      "searchTerm": "Juniperus chinensis",
+      "matchedTaxonId": "210000896",
+      "matchedName": "Juniperus chinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000896",
+      "treatmentName": "Juniperus chinensis",
+      "illustrations": [
+        {
+          "objectId": "4542",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=4542&flora_id=2",
+          "objectTaxonName": "Juniperus chinensis",
+          "imageUrl": "https://images.mobot.org/mrsid/094/09400124_001.gif",
+          "localPath": "data/source-images/efloras-foc/4542-50240bed.gif",
+          "bytes": 136878,
+          "sha256": "ccecb0d5335710e26eb50cfa739dc5bc740fe493dd4dd68bcab54da910342410"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "鸡爪槭",
+      "catalogScientificName": "Acer palmatum Thunb.",
+      "searchTerm": "Acer palmatum",
+      "matchedTaxonId": "200013064",
+      "matchedName": "Acer palmatum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013064",
+      "treatmentName": "Acer palmatum",
+      "illustrations": [
+        {
+          "objectId": "110249",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=110249&flora_id=2",
+          "objectTaxonName": "Acer palmatum",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_554.jpg",
+          "localPath": "data/source-images/efloras-foc/110249-61b168e6.jpg",
+          "bytes": 192966,
+          "sha256": "7e69caea2ce0af71a191be82889392b5047e9476514d8d6c2aa5e933766a1063"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "三角槭",
+      "catalogScientificName": "Acer buergerianum Miq",
+      "searchTerm": "Acer buergerianum",
+      "matchedTaxonId": "200012930",
+      "matchedName": "Acer buergerianum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012930",
+      "treatmentName": "Acer buergerianum",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "厚萼凌霄",
+      "catalogScientificName": "Campsis radicans (L.) Seem.",
+      "searchTerm": "厚萼凌霄",
+      "status": "taxon-not-found"
+    },
+    {
+      "species": "紫薇",
+      "catalogScientificName": "Lagerstroemia indica L.",
+      "searchTerm": "Lagerstroemia indica",
+      "matchedTaxonId": "200014643",
+      "matchedName": "Lagerstroemia indica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014643",
+      "treatmentName": "Lagerstroemia indica",
+      "illustrations": [
+        {
+          "objectId": "94375",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=94375&flora_id=2",
+          "objectTaxonName": "Lagerstroemia indica",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc13/foci-13-295.jpg",
+          "localPath": "data/source-images/efloras-foc/94375-03020058.jpg",
+          "bytes": 298246,
+          "sha256": "6a58b6ce6981982210f03a1cfc6f5bddd0878b268f9edd3489bb63ab9ecaf332"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "玉兰",
+      "catalogScientificName": "Yulania denudata (Desr.) D. L. Fu",
+      "searchTerm": "Yulania denudata",
+      "matchedTaxonId": "250090269",
+      "matchedName": "Yulania denudata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090269",
+      "treatmentName": "Yulania denudata",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "龙爪槐",
+      "catalogScientificName": "Styphnolobium japonicum 'Pendula'",
+      "searchTerm": "Styphnolobium japonicum",
+      "matchedTaxonId": "200012322",
+      "matchedName": "Styphnolobium japonicum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322",
+      "treatmentName": "Styphnolobium japonicum",
+      "illustrations": [
+        {
+          "objectId": "116341",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116341&flora_id=2",
+          "objectTaxonName": "Styphnolobium japonicum",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-115.jpg",
+          "localPath": "data/source-images/efloras-foc/116341-86d3eba7.jpg",
+          "bytes": 207715,
+          "sha256": "f846b95f0a6fb06380857228fd776c520dc2ce03a9c98dd1b8ff29f0aeaf6378"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "蜡梅",
+      "catalogScientificName": "Chimonanthus praecox (L.) Link",
+      "searchTerm": "Chimonanthus praecox",
+      "matchedTaxonId": "200008496",
+      "matchedName": "Chimonanthus praecox",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008496",
+      "treatmentName": "Chimonanthus praecox",
+      "illustrations": [
+        {
+          "objectId": "112381",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=112381&flora_id=2",
+          "objectTaxonName": "Chimonanthus praecox",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_109.jpg",
+          "localPath": "data/source-images/efloras-foc/112381-2cecb7c3.jpg",
+          "bytes": 290983,
+          "sha256": "56d5bad00d3dbba5f1b936b22453932265183b6a0805d22290b2f5cbaa62078e"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "白皮松",
+      "catalogScientificName": "Pinus bungeana Zucc. ex Endl.",
+      "searchTerm": "Pinus bungeana",
+      "matchedTaxonId": "200005327",
+      "matchedName": "Pinus bungeana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005327",
+      "treatmentName": "Pinus bungeana",
+      "illustrations": [
+        {
+          "objectId": "1262",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1262&flora_id=2",
+          "objectTaxonName": "Pinus bungeana",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900021_001.gif",
+          "localPath": "data/source-images/efloras-foc/1262-6f9093d5.gif",
+          "bytes": 168745,
+          "sha256": "9407ba8c58ff5428332acb94ed1a7316a4e6a61c0e929e1f8238aa03c7dbee9f"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "紫藤",
+      "catalogScientificName": "Wisteria sinensis (Sims) Sweet",
+      "searchTerm": "Wisteria sinensis",
+      "matchedTaxonId": "200012368",
+      "matchedName": "Wisteria sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012368",
+      "treatmentName": "Wisteria sinensis",
+      "illustrations": [
+        {
+          "objectId": "116363",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116363&flora_id=2",
+          "objectTaxonName": "Wisteria sinensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-223.jpg",
+          "localPath": "data/source-images/efloras-foc/116363-c5620295.jpg",
+          "bytes": 228892,
+          "sha256": "1b3247a76bf6259c1dbdc7aaafc31e8786ff6859acda54d379decb790f69543e"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "瓶兰花",
+      "catalogScientificName": "Diospyros armata Hemsl.",
+      "searchTerm": "Diospyros armata",
+      "matchedTaxonId": "200017562",
+      "matchedName": "Diospyros armata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017562",
+      "treatmentName": "Diospyros armata",
+      "illustrations": [
+        {
+          "objectId": "2618",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2618&flora_id=2",
+          "objectTaxonName": "Diospyros armata",
+          "imageUrl": "https://images.mobot.org/mrsid/115/11500527_001.gif",
+          "localPath": "data/source-images/efloras-foc/2618-693fac4a.gif",
+          "bytes": 76210,
+          "sha256": "5cbc6190974486e80d3cf7c720557263bacd6f50e6d08f3b95320f7a7106235e"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "雀梅藤",
+      "catalogScientificName": "Sageretia thea (Osbeck) M. C. Johnst.",
+      "searchTerm": "Sageretia thea",
+      "matchedTaxonId": "200013449",
+      "matchedName": "Sageretia thea",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013449",
+      "treatmentName": "Sageretia thea",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "乌桕",
+      "catalogScientificName": "Triadica sebifera (L.) Small",
+      "searchTerm": "Triadica sebifera",
+      "matchedTaxonId": "250084071",
+      "matchedName": "Triadica sebifera",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250084071",
+      "treatmentName": "Triadica sebifera",
+      "illustrations": [
+        {
+          "objectId": "109289",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=109289&flora_id=2",
+          "objectTaxonName": "Triadica sebifera",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_338.jpg",
+          "localPath": "data/source-images/efloras-foc/109289-7d9f9489.jpg",
+          "bytes": 250006,
+          "sha256": "c4a5edfa162f7a789acb37f43e550baedbe8862a72ad82a16764de0384450b07"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "含笑花",
+      "catalogScientificName": "Michelia figo (Lour.) Spreng.",
+      "searchTerm": "Michelia figo",
+      "matchedTaxonId": "200008480",
+      "matchedName": "Michelia figo",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480",
+      "treatmentName": "Michelia figo",
+      "illustrations": [
+        {
+          "objectId": "111821",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=111821&flora_id=2",
+          "objectTaxonName": "Michelia figo",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_102.jpg",
+          "localPath": "data/source-images/efloras-foc/111821-7b042be9.jpg",
+          "bytes": 312345,
+          "sha256": "ea03d21e4969a19014ce8d6d0c8f98179ee42e8240a6722004d791b1ce63822c"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "日本五针松",
+      "catalogScientificName": "Pinus parviflora Siebold et Zucc.",
+      "searchTerm": "Pinus parviflora",
+      "matchedTaxonId": "200005349",
+      "matchedName": "Pinus parviflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005349",
+      "treatmentName": "Pinus parviflora",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "枸骨",
+      "catalogScientificName": "Ilex cornuta Lindl. & Paxton",
+      "searchTerm": "Ilex cornuta",
+      "matchedTaxonId": "200012756",
+      "matchedName": "Ilex cornuta",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012756",
+      "treatmentName": "Ilex cornuta",
+      "illustrations": [
+        {
+          "objectId": "110120",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=110120&flora_id=2",
+          "objectTaxonName": "Ilex cornuta",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_433.jpg",
+          "localPath": "data/source-images/efloras-foc/110120-9e1f79e9.jpg",
+          "bytes": 177095,
+          "sha256": "643d2b42970e0873bad335419d26cf283a09aedbdedade8143c893967715a3c5"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "刺柏",
+      "catalogScientificName": "Juniperus formosana Hayata",
+      "searchTerm": "Juniperus formosana",
+      "matchedTaxonId": "200005425",
+      "matchedName": "Juniperus formosana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005425",
+      "treatmentName": "Juniperus formosana",
+      "illustrations": [
+        {
+          "objectId": "1321",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1321&flora_id=2",
+          "objectTaxonName": "Juniperus formosana",
+          "imageUrl": "https://images.mobot.org/mrsid/094/09400551_001.gif",
+          "localPath": "data/source-images/efloras-foc/1321-9e317923.gif",
+          "bytes": 148192,
+          "sha256": "a9ee9fbcf6414f259862f63f9b58de14ed4e0bbc642ef9ad7d1342b4463b5371"
+        },
+        {
+          "objectId": "1322",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1322&flora_id=2",
+          "objectTaxonName": "Juniperus formosana",
+          "imageUrl": "https://images.mobot.org/mrsid/094/09400551_002.gif",
+          "localPath": "data/source-images/efloras-foc/1322-c4579df2.gif",
+          "bytes": 150560,
+          "sha256": "56a0968b63ce78a7c6026d4e369989004c6b4d2fd52a9b1fe7cc9aea073f1296"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "榔榆",
+      "catalogScientificName": "Ulmus parvifolia Jacq.",
+      "searchTerm": "Ulmus parvifolia",
+      "matchedTaxonId": "200006330",
+      "matchedName": "Ulmus parvifolia",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006330",
+      "treatmentName": "Ulmus parvifolia",
+      "illustrations": [
+        {
+          "objectId": "51035",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=51035&flora_id=2",
+          "objectTaxonName": "Ulmus parvifolia",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-004.gif",
+          "localPath": "data/source-images/efloras-foc/51035-9ae21c61.gif",
+          "bytes": 98751,
+          "sha256": "29c79fe97b68f96e3dfe6a26a97c5255920239000166747bcde7e24a2e439d7a"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "石榴",
+      "catalogScientificName": "Punica granatum L.",
+      "searchTerm": "Punica granatum",
+      "matchedTaxonId": "200014674",
+      "matchedName": "Punica granatum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014674",
+      "treatmentName": "Punica granatum",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "枸杞",
+      "catalogScientificName": "Lycium chinense Mill.",
+      "searchTerm": "Lycium chinense",
+      "matchedTaxonId": "200020538",
+      "matchedName": "Lycium chinense",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020538",
+      "treatmentName": "Lycium chinense",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "柿",
+      "catalogScientificName": "Diospyros kaki Thunb.",
+      "searchTerm": "Diospyros kaki",
+      "matchedTaxonId": "200017585",
+      "matchedName": "Diospyros kaki",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017585",
+      "treatmentName": "Diospyros kaki",
+      "illustrations": [
+        {
+          "objectId": "2635",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2635&flora_id=2",
+          "objectTaxonName": "Diospyros kaki",
+          "imageUrl": "https://images.mobot.org/mrsid/115/11500521_001.gif",
+          "localPath": "data/source-images/efloras-foc/2635-b1707092.gif",
+          "bytes": 84931,
+          "sha256": "c570dcc08d1033f9c10ee2df2e126fd4bdf705417755fe57ca31e7a3177ae589"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "牡丹",
+      "catalogScientificName": "Paeonia × suffruticosa Andrews",
+      "searchTerm": "Paeonia suffruticosa",
+      "matchedTaxonId": "200008041",
+      "matchedName": "Paeonia suffruticosa",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
+      "treatmentName": "Paeonia suffruticosa",
+      "illustrations": [
+        {
+          "objectId": "39369",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=39369&flora_id=2",
+          "objectTaxonName": "Paeonia suffruticosa",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc06/foc06-118.gif",
+          "localPath": "data/source-images/efloras-foc/39369-bcb84a57.gif",
+          "bytes": 114656,
+          "sha256": "c611250fe4ae73531ca3a1a0d93e975573ff80597c8269da0efd3a85fe6e78da"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "板栗",
+      "catalogScientificName": "Castanea mollissima Bl.",
+      "searchTerm": "Castanea mollissima",
+      "matchedTaxonId": "200006226",
+      "matchedName": "Castanea mollissima",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006226",
+      "treatmentName": "Castanea mollissima",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "马尾松",
+      "catalogScientificName": "Pinus massoniana Lamb.",
+      "searchTerm": "Pinus massoniana",
+      "matchedTaxonId": "200005343",
+      "matchedName": "Pinus massoniana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+      "treatmentName": "Pinus massoniana",
+      "illustrations": [
+        {
+          "objectId": "1271",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1271&flora_id=2",
+          "objectTaxonName": "Pinus massoniana",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900389_001.gif",
+          "localPath": "data/source-images/efloras-foc/1271-2424490c.gif",
+          "bytes": 168923,
+          "sha256": "dac31e7a1b494adc9e97c6a3937c501ea3e5bdf3f767fad9469a36d07c1545e5"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "金钱松",
+      "catalogScientificName": "Pseudolarix amabilis (J. Nelson) Rehder",
+      "searchTerm": "Pseudolarix amabilis",
+      "matchedTaxonId": "210001826",
+      "matchedName": "Pseudolarix amabilis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001826",
+      "treatmentName": "Pseudolarix amabilis",
+      "illustrations": [
+        {
+          "objectId": "4863",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=4863&flora_id=2",
+          "objectTaxonName": "Pseudolarix amabilis",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900395_001.gif",
+          "localPath": "data/source-images/efloras-foc/4863-31f63508.gif",
+          "bytes": 157268,
+          "sha256": "4c7311031833bcda3c5f4163c817ec53339b1d6364bb53d8f82a0399021f4acd"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "楸树",
+      "catalogScientificName": "Catalpa bungei C.A.Mey",
+      "searchTerm": "Catalpa bungei",
+      "matchedTaxonId": "200021394",
+      "matchedName": "Catalpa bungei",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200021394",
+      "treatmentName": "Catalpa bungei",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "杨梅",
+      "catalogScientificName": "Morella rubra Lour.",
+      "searchTerm": "Myrica rubra",
+      "matchedTaxonId": "200006094",
+      "matchedName": "Myrica rubra",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006094",
+      "treatmentName": "Myrica rubra",
+      "illustrations": [
+        {
+          "objectId": "2155",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2155&flora_id=2",
+          "objectTaxonName": "Myrica rubra",
+          "imageUrl": "https://images.mobot.org/mrsid/217/21700085_001.gif",
+          "localPath": "data/source-images/efloras-foc/2155-1d039fef.gif",
+          "bytes": 134504,
+          "sha256": "6a7c8b15f29902fd2636a6d5c68047fc69299fee6f3551b781d39c53da8ee8ec"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "南天竹",
+      "catalogScientificName": "Nandina domestica Thunb.",
+      "searchTerm": "Nandina domestica",
+      "matchedTaxonId": "200008408",
+      "matchedName": "Nandina domestica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008408",
+      "treatmentName": "Nandina domestica",
+      "illustrations": [
+        {
+          "objectId": "119345",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=119345&flora_id=2",
+          "objectTaxonName": "Nandina domestica",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foci19/foci19-608.jpg",
+          "localPath": "data/source-images/efloras-foc/119345-f9a7de4f.jpg",
+          "bytes": 240285,
+          "sha256": "b7fcb0c837598bf4bc8cebd81e86c015b62ad227ceac61a82392199cab5af6b6"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "梅",
+      "catalogScientificName": "Prunus mume Siebold & Zucc.",
+      "searchTerm": "Armeniaca mume",
+      "matchedTaxonId": "200010631",
+      "matchedName": "Armeniaca mume",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010631",
+      "treatmentName": "Armeniaca mume",
+      "illustrations": [
+        {
+          "objectId": "49186",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=49186&flora_id=2",
+          "objectTaxonName": "Armeniaca mume",
+          "imageUrl": "https://images.mobot.org/mrsid/278/27805590_001.gif",
+          "localPath": "data/source-images/efloras-foc/49186-15105e59.gif",
+          "bytes": 79806,
+          "sha256": "d7fbd79cbe5f2ef79bb26054a3a9119c33565ffd7dca6ab35eaa7c48db0ea31f"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "雪松",
+      "catalogScientificName": "Cedrus deodara (Roxb.) G. Don",
+      "searchTerm": "Cedrus deodara",
+      "matchedTaxonId": "200005268",
+      "matchedName": "Cedrus deodara",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268",
+      "treatmentName": "Cedrus deodara",
+      "illustrations": [
+        {
+          "objectId": "1222",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1222&flora_id=2",
+          "objectTaxonName": "Cedrus deodara",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900655_001.gif",
+          "localPath": "data/source-images/efloras-foc/1222-4fbbd18d.gif",
+          "bytes": 160323,
+          "sha256": "f44b08779d24a546e6735a9e6dcf9f68001555a50add55bee4505357655fe6bc"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "二球悬铃木",
+      "catalogScientificName": "Platanus acerifolia (Aiton) Willd.",
+      "searchTerm": "Platanus acerifolia",
+      "matchedTaxonId": "200010587",
+      "matchedName": "Platanus acerifolia",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010587",
+      "treatmentName": "Platanus acerifolia",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "黄连木",
+      "catalogScientificName": "Pistacia chinensis Bunge",
+      "searchTerm": "Pistacia chinensis",
+      "matchedTaxonId": "200012703",
+      "matchedName": "Pistacia chinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012703",
+      "treatmentName": "Pistacia chinensis",
+      "illustrations": [
+        {
+          "objectId": "109423",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=109423&flora_id=2",
+          "objectTaxonName": "Pistacia chinensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_409.jpg",
+          "localPath": "data/source-images/efloras-foc/109423-affdbb60.jpg",
+          "bytes": 172436,
+          "sha256": "bccc9fa4baea6cbe8f4101d97c792fc08eba8c82630807ec142d5dd890694240"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "琼花",
+      "catalogScientificName": "Viburnum keteleeri Carrière",
+      "searchTerm": "Viburnum macrocephalum",
+      "matchedTaxonId": "200022479",
+      "matchedName": "Viburnum macrocephalum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022479",
+      "treatmentName": "Viburnum macrocephalum",
+      "illustrations": [
+        {
+          "objectId": "119632",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=119632&flora_id=2",
+          "objectTaxonName": "Viburnum macrocephalum",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foci19/foci19-433.jpg",
+          "localPath": "data/source-images/efloras-foc/119632-4a42a4e2.jpg",
+          "bytes": 280853,
+          "sha256": "6b335a0e2cb020026a08b3446d52827f338bda4dcf56186d2fd14624c0a8a46b"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "女贞",
+      "catalogScientificName": "Ligustrum lucidum W. T. Aiton",
+      "searchTerm": "Ligustrum lucidum",
+      "matchedTaxonId": "200017794",
+      "matchedName": "Ligustrum lucidum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017794",
+      "treatmentName": "Ligustrum lucidum",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "青冈",
+      "catalogScientificName": "Quercus glauca Thunb.",
+      "searchTerm": "Cyclobalanopsis glauca",
+      "matchedTaxonId": "210000372",
+      "matchedName": "Cyclobalanopsis glauca",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000372",
+      "treatmentName": "Cyclobalanopsis glauca",
+      "illustrations": [
+        {
+          "objectId": "4361",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=4361&flora_id=2",
+          "objectTaxonName": "Cyclobalanopsis glauca",
+          "imageUrl": "https://images.mobot.org/mrsid/131/13101335_001.gif",
+          "localPath": "data/source-images/efloras-foc/4361-c5246ad4.gif",
+          "bytes": 136392,
+          "sha256": "db26d0a13edb7d984e8d450caa771d8578ac983972ebdff9c8ef7109fc85afc0"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "苦槠",
+      "catalogScientificName": "Castanopsis sclerophylla (Lindl.) Schottky",
+      "searchTerm": "Castanopsis sclerophylla",
+      "matchedTaxonId": "200006250",
+      "matchedName": "Castanopsis sclerophylla",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006250",
+      "treatmentName": "Castanopsis sclerophylla",
+      "illustrations": [
+        {
+          "objectId": "2255",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2255&flora_id=2",
+          "objectTaxonName": "Castanopsis sclerophylla",
+          "imageUrl": "https://images.mobot.org/mrsid/131/13100179_001.gif",
+          "localPath": "data/source-images/efloras-foc/2255-3896f622.gif",
+          "bytes": 105992,
+          "sha256": "c2d7058c04a93364cea103b893be85a6f65a825fce83b9ebc70c2159fa301fb7"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "槐",
+      "catalogScientificName": "Styphnolobium japonicum (L.) Schott",
+      "searchTerm": "Styphnolobium japonicum",
+      "matchedTaxonId": "200012322",
+      "matchedName": "Styphnolobium japonicum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322",
+      "treatmentName": "Styphnolobium japonicum",
+      "illustrations": [
+        {
+          "objectId": "116341",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116341&flora_id=2",
+          "objectTaxonName": "Styphnolobium japonicum",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-115.jpg",
+          "localPath": "data/source-images/efloras-foc/116341-f91362ed.jpg",
+          "bytes": 207715,
+          "sha256": "f846b95f0a6fb06380857228fd776c520dc2ce03a9c98dd1b8ff29f0aeaf6378"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "侧柏",
+      "catalogScientificName": "Platycladus orientalis (L.) Franco",
+      "searchTerm": "Platycladus orientalis",
+      "matchedTaxonId": "200005428",
+      "matchedName": "Platycladus orientalis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
+      "treatmentName": "Platycladus orientalis",
+      "illustrations": [],
+      "imageErrors": [
+        {
+          "objectId": "1327",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1327&flora_id=2",
+          "objectTaxonName": "Platycladus orientalis",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900394_001.gif",
+          "error": "Could not fetch https://images.mobot.org/mrsid/249/24900394_001.gif: HTTP Error 404: Not Found"
+        },
+        {
+          "objectId": "1328",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1328&flora_id=2",
+          "objectTaxonName": "Platycladus orientalis",
+          "imageUrl": "http://tropicos.org/ImageDownload.aspx?imageid=36414",
+          "error": "Source returned HTML or another non-image response"
+        }
+      ],
+      "status": "image-unavailable"
+    },
+    {
+      "species": "皂荚",
+      "catalogScientificName": "Gleditsia sinensis Lam.",
+      "searchTerm": "Gleditsia sinensis",
+      "matchedTaxonId": "200012140",
+      "matchedName": "Gleditsia sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012140",
+      "treatmentName": "Gleditsia sinensis",
+      "illustrations": [
+        {
+          "objectId": "116243",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116243&flora_id=2",
+          "objectTaxonName": "Gleditsia sinensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-047.jpg",
+          "localPath": "data/source-images/efloras-foc/116243-4134a7e9.jpg",
+          "bytes": 269868,
+          "sha256": "6db390f1994a197e696cc5dea08977102b72226d5d0017838a986dd8263b330f"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "糙叶树",
+      "catalogScientificName": "Aphananthe aspera (Thunb.) Planch.",
+      "searchTerm": "Aphananthe aspera",
+      "matchedTaxonId": "200006307",
+      "matchedName": "Aphananthe aspera",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006307",
+      "treatmentName": "Aphananthe aspera",
+      "illustrations": [
+        {
+          "objectId": "50142",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50142&flora_id=2",
+          "objectTaxonName": "Aphananthe aspera",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-019.gif",
+          "localPath": "data/source-images/efloras-foc/50142-1498d171.gif",
+          "bytes": 105544,
+          "sha256": "e151c6b8cd838877bd536093552931b5d4cfcf7f06451ea6d3211f51ba562461"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "柳杉",
+      "catalogScientificName": "Cryptomeria japonica var. sinensis Miq.",
+      "searchTerm": "Cryptomeria japonica",
+      "matchedTaxonId": "200005392",
+      "matchedName": "Cryptomeria japonica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005392",
+      "treatmentName": "Cryptomeria japonica",
+      "illustrations": [
+        {
+          "objectId": "1293",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1293&flora_id=2",
+          "objectTaxonName": "Cryptomeria japonica",
+          "imageUrl": "https://images.mobot.org/mrsid/313/31300023_001.gif",
+          "localPath": "data/source-images/efloras-foc/1293-d634cc30.gif",
+          "bytes": 172679,
+          "sha256": "cbfdd5ad3d577013b3741e49da70f6c90065bed7a9b608c5e8f554f1b3618990"
+        },
+        {
+          "objectId": "1294",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1294&flora_id=2",
+          "objectTaxonName": "Cryptomeria japonica",
+          "imageUrl": "https://images.mobot.org/mrsid/313/31300023_002.gif",
+          "localPath": "data/source-images/efloras-foc/1294-2f22a8dd.gif",
+          "bytes": 172679,
+          "sha256": "cbfdd5ad3d577013b3741e49da70f6c90065bed7a9b608c5e8f554f1b3618990"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "佘山羊奶子",
+      "catalogScientificName": "Elaeagnus argyi H. Lév.",
+      "searchTerm": "Elaeagnus argyi",
+      "matchedTaxonId": "200014545",
+      "matchedName": "Elaeagnus argyi",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014545",
+      "treatmentName": "Elaeagnus argyi",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "广玉兰",
+      "catalogScientificName": "Magnolia grandiflora L.",
+      "searchTerm": "Magnolia grandiflora",
+      "matchedTaxonId": "200008470",
+      "matchedName": "Magnolia grandiflora",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008470",
+      "treatmentName": "Magnolia grandiflora",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "腊梅",
+      "catalogScientificName": "Chimonanthus praecox (L.)Link.",
+      "searchTerm": "Chimonanthus praecox",
+      "matchedTaxonId": "200008496",
+      "matchedName": "Chimonanthus praecox",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008496",
+      "treatmentName": "Chimonanthus praecox",
+      "illustrations": [
+        {
+          "objectId": "112381",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=112381&flora_id=2",
+          "objectTaxonName": "Chimonanthus praecox",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_109.jpg",
+          "localPath": "data/source-images/efloras-foc/112381-b613f076.jpg",
+          "bytes": 290983,
+          "sha256": "56d5bad00d3dbba5f1b936b22453932265183b6a0805d22290b2f5cbaa62078e"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "山茶",
+      "catalogScientificName": "Camellia japonica L.",
+      "searchTerm": "Camellia japonica",
+      "matchedTaxonId": "200014034",
+      "matchedName": "Camellia japonica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014034",
+      "treatmentName": "Camellia japonica",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "榉树",
+      "catalogScientificName": "Zelkova serrata (Thunb.)Makino",
+      "searchTerm": "Zelkova serrata",
+      "matchedTaxonId": "242355642",
+      "matchedName": "Zelkova serrata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242355642",
+      "treatmentName": "Zelkova serrata",
+      "illustrations": [
+        {
+          "objectId": "50138",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50138&flora_id=2",
+          "objectTaxonName": "Zelkova serrata",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-017.gif",
+          "localPath": "data/source-images/efloras-foc/50138-fd9621bb.gif",
+          "bytes": 103311,
+          "sha256": "f978b327707f0dc4c3aa241e5fefeed468038c5ccbea3dba5ddc88fc56d1a4a2"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "三角枫",
+      "catalogScientificName": "Acer buergerianum Miq.",
+      "searchTerm": "Acer buergerianum",
+      "matchedTaxonId": "200012930",
+      "matchedName": "Acer buergerianum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012930",
+      "treatmentName": "Acer buergerianum",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "黄檀",
+      "catalogScientificName": "Dalbergia hupeana Hance",
+      "searchTerm": "Dalbergia hupeana",
+      "matchedTaxonId": "200012084",
+      "matchedName": "Dalbergia hupeana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012084",
+      "treatmentName": "Dalbergia hupeana",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "冬青",
+      "catalogScientificName": "Ilex chinensis Sims",
+      "searchTerm": "Ilex chinensis",
+      "matchedTaxonId": "200012754",
+      "matchedName": "Ilex chinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012754",
+      "treatmentName": "Ilex chinensis",
+      "illustrations": [
+        {
+          "objectId": "110106",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=110106&flora_id=2",
+          "objectTaxonName": "Ilex chinensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_428.jpg",
+          "localPath": "data/source-images/efloras-foc/110106-e99e3cd7.jpg",
+          "bytes": 198740,
+          "sha256": "c8b05c9cadd69ec50004b064cb55de91050fa359da96b8b7fbbd5b98f20e75d6"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "枳椇",
+      "catalogScientificName": "Hovenia acerba Lindl.",
+      "searchTerm": "Hovenia acerba",
+      "matchedTaxonId": "200013345",
+      "matchedName": "Hovenia acerba",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013345",
+      "treatmentName": "Hovenia acerba",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "红茴香",
+      "catalogScientificName": "Illicium henryi Diels",
+      "searchTerm": "Illicium henryi",
+      "matchedTaxonId": "200008457",
+      "matchedName": "Illicium henryi",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008457",
+      "treatmentName": "Illicium henryi",
+      "illustrations": [
+        {
+          "objectId": "112298",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=112298&flora_id=2",
+          "objectTaxonName": "Illicium henryi",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_031.jpg",
+          "localPath": "data/source-images/efloras-foc/112298-3994c82f.jpg",
+          "bytes": 340712,
+          "sha256": "14212e6fe31ff0d0a212d6d6c7c8621979b956a6ba4df0d87f965a4213030143"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "含笑",
+      "catalogScientificName": "Micheliafigo (Lour.) Spreng.",
+      "searchTerm": "Michelia figo",
+      "matchedTaxonId": "200008480",
+      "matchedName": "Michelia figo",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480",
+      "treatmentName": "Michelia figo",
+      "illustrations": [
+        {
+          "objectId": "111821",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=111821&flora_id=2",
+          "objectTaxonName": "Michelia figo",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_102.jpg",
+          "localPath": "data/source-images/efloras-foc/111821-4da7653f.jpg",
+          "bytes": 312345,
+          "sha256": "ea03d21e4969a19014ce8d6d0c8f98179ee42e8240a6722004d791b1ce63822c"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "紫楠",
+      "catalogScientificName": "Phoebe sheareri(Hemsl.) Gamble",
+      "searchTerm": "Phoebe sheareri",
+      "matchedTaxonId": "200009078",
+      "matchedName": "Phoebe sheareri",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009078",
+      "treatmentName": "Phoebe sheareri",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "茶",
+      "catalogScientificName": "Camellia sinensis (L.) Kuntze",
+      "searchTerm": "Camellia sinensis",
+      "matchedTaxonId": "200014043",
+      "matchedName": "Camellia sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014043",
+      "treatmentName": "Camellia sinensis",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "石楠",
+      "catalogScientificName": "Photinia serratifolia (Desf.) Kalkman",
+      "searchTerm": "Photinia serratifolia",
+      "matchedTaxonId": "242337302",
+      "matchedName": "Photinia serratifolia",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242337302",
+      "treatmentName": "Photinia serratifolia",
+      "illustrations": [
+        {
+          "objectId": "48871",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=48871&flora_id=2",
+          "objectTaxonName": "Photinia serratifolia",
+          "imageUrl": "https://images.mobot.org/mrsid/278/27808608_001.gif",
+          "localPath": "data/source-images/efloras-foc/48871-09d5df5d.gif",
+          "bytes": 141861,
+          "sha256": "d2177bc953827b5053f150112555e14caee64388e45cb4db8d2979e757e530ba"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "白栎",
+      "catalogScientificName": "QuercusfabriHance",
+      "searchTerm": "Quercus fabri",
+      "matchedTaxonId": "200006291",
+      "matchedName": "Quercus fabri",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006291",
+      "treatmentName": "Quercus fabri",
+      "illustrations": [
+        {
+          "objectId": "2288",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2288&flora_id=2",
+          "objectTaxonName": "Quercus fabri",
+          "imageUrl": "https://images.mobot.org/mrsid/131/13100402_001.gif",
+          "localPath": "data/source-images/efloras-foc/2288-3ed82d25.gif",
+          "bytes": 97388,
+          "sha256": "468b016993e0253d1b90132a66df7a23d4423de8afc579924bdca64b58e96415"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "南京椴",
+      "catalogScientificName": "Tilia miqueliana Maxim.",
+      "searchTerm": "Tilia miqueliana",
+      "matchedTaxonId": "200013640",
+      "matchedName": "Tilia miqueliana",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013640",
+      "treatmentName": "Tilia miqueliana",
+      "illustrations": [
+        {
+          "objectId": "93488",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=93488&flora_id=2",
+          "objectTaxonName": "Tilia miqueliana",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc12/foci-12-211.jpg",
+          "localPath": "data/source-images/efloras-foc/93488-a9a4735d.jpg",
+          "bytes": 219127,
+          "sha256": "9929e105d762a5a6174a1256cc49782aba415b6724f4e4fc3ca806553dca7b1b"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "牛鼻栓",
+      "catalogScientificName": "Fortunearia sinensis Rehder & E.H.Wilson",
+      "searchTerm": "Fortunearia sinensis",
+      "matchedTaxonId": "200010553",
+      "matchedName": "Fortunearia sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010553",
+      "treatmentName": "Fortunearia sinensis",
+      "illustrations": [
+        {
+          "objectId": "48779",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=48779&flora_id=2",
+          "objectTaxonName": "Fortunearia sinensis",
+          "imageUrl": "https://images.mobot.org/mrsid/151/15100083_001.gif",
+          "localPath": "data/source-images/efloras-foc/48779-b7b876b1.gif",
+          "bytes": 97473,
+          "sha256": "b5e6f8c9aaf76081c30d23dfdb780a64d372c52a334bb7eadeb076f18de82905"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "麻栎",
+      "catalogScientificName": "QuercusacutissimaCarruth.",
+      "searchTerm": "Quercus acutissima",
+      "matchedTaxonId": "200006284",
+      "matchedName": "Quercus acutissima",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006284",
+      "treatmentName": "Quercus acutissima",
+      "illustrations": [
+        {
+          "objectId": "2279",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2279&flora_id=2",
+          "objectTaxonName": "Quercus acutissima",
+          "imageUrl": "https://images.mobot.org/mrsid/131/13100182_001.gif",
+          "localPath": "data/source-images/efloras-foc/2279-dc0483e1.gif",
+          "bytes": 113542,
+          "sha256": "5a47860826ea0de25eb456c35d31d8b18568f1ea551f15c01c070fded7a76bd0"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "刺楸",
+      "catalogScientificName": "Kalopanax septemlobus(Thunb.)Koidz.",
+      "searchTerm": "Kalopanax septemlobus",
+      "matchedTaxonId": "200015231",
+      "matchedName": "Kalopanax septemlobus",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015231",
+      "treatmentName": "Kalopanax septemlobus",
+      "illustrations": [
+        {
+          "objectId": "94535",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=94535&flora_id=2",
+          "objectTaxonName": "Kalopanax septemlobus",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc13/foci-13-445.jpg",
+          "localPath": "data/source-images/efloras-foc/94535-e193b595.jpg",
+          "bytes": 273530,
+          "sha256": "4a163a162f8e35f1ea658de03abd1257af643e30716ddea96ab1ca9479960339"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "木瓜",
+      "catalogScientificName": "Pseudocydonia sinensis (Thouin) C. K. Schneid",
+      "searchTerm": "Chaenomeles sinensis",
+      "matchedTaxonId": "200010697",
+      "matchedName": "Chaenomeles sinensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010697",
+      "treatmentName": "Chaenomeles sinensis",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "木香花",
+      "catalogScientificName": "Rosa banksiae Aiton",
+      "searchTerm": "Rosa banksiae",
+      "matchedTaxonId": "200011215",
+      "matchedName": "Rosa banksiae",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215",
+      "treatmentName": "Rosa banksiae",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "单体红山茶",
+      "catalogScientificName": "Camellia uraku (Mak.) Kitamura",
+      "searchTerm": "单体红山茶",
+      "status": "taxon-not-found"
+    },
+    {
+      "species": "榆",
+      "catalogScientificName": "Ulmus pumila L.",
+      "searchTerm": "Ulmus pumila",
+      "matchedTaxonId": "200006332",
+      "matchedName": "Ulmus pumila",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006332",
+      "treatmentName": "Ulmus pumila",
+      "illustrations": [
+        {
+          "objectId": "50124",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+          "objectTaxonName": "Ulmus pumila",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-008.gif",
+          "localPath": "data/source-images/efloras-foc/50124-07c03997.gif",
+          "bytes": 104777,
+          "sha256": "f088caadd937b97b2e0ecda66fe782febe116679292f506ff0be55966b5eb9f2"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "枣",
+      "catalogScientificName": "Ziziphus jujuba (L.) Lam.",
+      "searchTerm": "Ziziphus jujuba",
+      "matchedTaxonId": "200013464",
+      "matchedName": "Ziziphus jujuba",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013464",
+      "treatmentName": "Ziziphus jujuba",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "梓树",
+      "catalogScientificName": "Catalpa ovata G. Don",
+      "searchTerm": "Catalpa ovata",
+      "matchedTaxonId": "200021397",
+      "matchedName": "Catalpa ovata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200021397",
+      "treatmentName": "Catalpa ovata",
+      "illustrations": [
+        {
+          "objectId": "3866",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=3866&flora_id=2",
+          "objectTaxonName": "Catalpa ovata",
+          "imageUrl": "https://images.mobot.org/mrsid/037/03701299_001.gif",
+          "localPath": "data/source-images/efloras-foc/3866-64ea2049.gif",
+          "bytes": 85568,
+          "sha256": "1ba9d1ec804e8e964bbc8d2d730d294d7f4bfe479700b469f51db95fe1fedcee"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "蚊母树",
+      "catalogScientificName": "Distylium racemosum Siebold & Zucc.",
+      "searchTerm": "Distylium racemosum",
+      "matchedTaxonId": "200010545",
+      "matchedName": "Distylium racemosum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010545",
+      "treatmentName": "Distylium racemosum",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "二乔玉兰",
+      "catalogScientificName": "Yulania × soulangeana (Soul.-Bod.) D. L. Fu",
+      "searchTerm": "二乔玉兰",
+      "status": "taxon-not-found"
+    },
+    {
+      "species": "落羽杉",
+      "catalogScientificName": "Taxodium distichum (L.) Rich.",
+      "searchTerm": "Taxodium distichum",
+      "matchedTaxonId": "200005404",
+      "matchedName": "Taxodium distichum",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005404",
+      "treatmentName": "Taxodium distichum",
+      "illustrations": [
+        {
+          "objectId": "1301",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1301&flora_id=2",
+          "objectTaxonName": "Taxodium distichum",
+          "imageUrl": "https://images.mobot.org/mrsid/313/31300230_001.gif",
+          "localPath": "data/source-images/efloras-foc/1301-57313a1e.gif",
+          "bytes": 135194,
+          "sha256": "a4cc63cc6220d0f5573b9e14fadafb3f95bd3a090c9a172b71d38508d4e38a2c"
+        },
+        {
+          "objectId": "1302",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1302&flora_id=2",
+          "objectTaxonName": "Taxodium distichum",
+          "imageUrl": "https://images.mobot.org/mrsid/313/31300230_002.gif",
+          "localPath": "data/source-images/efloras-foc/1302-a8b23f2c.gif",
+          "bytes": 135194,
+          "sha256": "a4cc63cc6220d0f5573b9e14fadafb3f95bd3a090c9a172b71d38508d4e38a2c"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "瓜子黄杨",
+      "catalogScientificName": "Buxus sinica (Rehder & E. H. Wilson) M. Cheng",
+      "searchTerm": "Buxus sinica",
+      "matchedTaxonId": "200012652",
+      "matchedName": "Buxus sinica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012652",
+      "treatmentName": "Buxus sinica",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "浙江楠",
+      "catalogScientificName": "Phoebe chekiangensis C. B. Shang",
+      "searchTerm": "Phoebe chekiangensis",
+      "matchedTaxonId": "200009050",
+      "matchedName": "Phoebe chekiangensis",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009050",
+      "treatmentName": "Phoebe chekiangensis",
+      "illustrations": [
+        {
+          "objectId": "112142",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=112142&flora_id=2",
+          "objectTaxonName": "Phoebe chekiangensis",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc07/FOCI-07_Page_213.jpg",
+          "localPath": "data/source-images/efloras-foc/112142-a6ba4fda.jpg",
+          "bytes": 327678,
+          "sha256": "746d66113bd87422b8445ae5bc5a4d7ad3366a289158463f0f08dea5a37aa5be"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "薜荔",
+      "catalogScientificName": "Ficus pumila L.",
+      "searchTerm": "Ficus pumila",
+      "matchedTaxonId": "233500650",
+      "matchedName": "Ficus pumila",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=233500650",
+      "treatmentName": "Ficus pumila",
+      "illustrations": [
+        {
+          "objectId": "50278",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50278&flora_id=2",
+          "objectTaxonName": "Ficus pumila",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-078.gif",
+          "localPath": "data/source-images/efloras-foc/50278-cf052df3.gif",
+          "bytes": 102963,
+          "sha256": "642afdd891700e947131553c92df4a839c830efab4e4cf3c6e90003e3722b6d1"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "重阳木",
+      "catalogScientificName": "Bischofia polycarpa (H. Lév.) Airy Shaw",
+      "searchTerm": "Bischofia polycarpa",
+      "matchedTaxonId": "242308511",
+      "matchedName": "Bischofia polycarpa",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242308511",
+      "treatmentName": "Bischofia polycarpa",
+      "illustrations": [
+        {
+          "objectId": "109890",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=109890&flora_id=2",
+          "objectTaxonName": "Bischofia polycarpa",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_278.jpg",
+          "localPath": "data/source-images/efloras-foc/109890-dba5d5fc.jpg",
+          "bytes": 259841,
+          "sha256": "ee3c82541da903e69c1d0c58c0f5ec9deeacf655ee4bcf78a151bacdb4795118"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "刺槐",
+      "catalogScientificName": "Robinia pseudoacacia L.",
+      "searchTerm": "Robinia pseudoacacia",
+      "matchedTaxonId": "200012304",
+      "matchedName": "Robinia pseudoacacia",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012304",
+      "treatmentName": "Robinia pseudoacacia",
+      "illustrations": [
+        {
+          "objectId": "116333",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=116333&flora_id=2",
+          "objectTaxonName": "Robinia pseudoacacia",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-344.jpg",
+          "localPath": "data/source-images/efloras-foc/116333-49911297.jpg",
+          "bytes": 227926,
+          "sha256": "f475b59ca01002e71e24f66b42ebe2bd15370cbe1ae734474334197339d0af56"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "厚壳树",
+      "catalogScientificName": "Ehretia acuminata R. Br.",
+      "searchTerm": "Ehretia acuminata",
+      "matchedTaxonId": "210000488",
+      "matchedName": "Ehretia acuminata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000488",
+      "treatmentName": "Ehretia acuminata",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "臭椿",
+      "catalogScientificName": "Ailanthus altissima (Mill.) Swingle",
+      "searchTerm": "臭椿",
+      "status": "taxon-not-found"
+    },
+    {
+      "species": "胡颓子",
+      "catalogScientificName": "Elaeagnus pungens Thunb.",
+      "searchTerm": "Elaeagnus pungens",
+      "matchedTaxonId": "200014597",
+      "matchedName": "Elaeagnus pungens",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014597",
+      "treatmentName": "Elaeagnus pungens",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "银薇",
+      "catalogScientificName": "Lagerstroemia indica L. f. alba (Nichols.) Rehd",
+      "searchTerm": "Lagerstroemia indica",
+      "matchedTaxonId": "200014643",
+      "matchedName": "Lagerstroemia indica",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014643",
+      "treatmentName": "Lagerstroemia indica",
+      "illustrations": [
+        {
+          "objectId": "94375",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=94375&flora_id=2",
+          "objectTaxonName": "Lagerstroemia indica",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc13/foci-13-295.jpg",
+          "localPath": "data/source-images/efloras-foc/94375-e65defcb.jpg",
+          "bytes": 298246,
+          "sha256": "6a58b6ce6981982210f03a1cfc6f5bddd0878b268f9edd3489bb63ab9ecaf332"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "单瓣黄木香",
+      "catalogScientificName": "Rosa banksiae f. lutescens Voss",
+      "searchTerm": "Rosa banksiae",
+      "matchedTaxonId": "200011215",
+      "matchedName": "Rosa banksiae",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215",
+      "treatmentName": "Rosa banksiae",
+      "illustrations": [],
+      "status": "no-illustration"
+    },
+    {
+      "species": "柘树",
+      "catalogScientificName": "Maclura tricuspidata Carrière",
+      "searchTerm": "Maclura tricuspidata",
+      "matchedTaxonId": "242331085",
+      "matchedName": "Maclura tricuspidata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242331085",
+      "treatmentName": "Maclura tricuspidata",
+      "illustrations": [
+        {
+          "objectId": "50192",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=50192&flora_id=2",
+          "objectTaxonName": "Maclura tricuspidata",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-042.gif",
+          "localPath": "data/source-images/efloras-foc/50192-4978a28f.gif",
+          "bytes": 85839,
+          "sha256": "1620c262c315abc6bf0effdd7401ac17d0ad4d4e485c45156d1ee2ca4596723b"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "南紫薇",
+      "catalogScientificName": "Lagerstroemia subcostata Koehne",
+      "searchTerm": "Lagerstroemia subcostata",
+      "matchedTaxonId": "200014650",
+      "matchedName": "Lagerstroemia subcostata",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014650",
+      "treatmentName": "Lagerstroemia subcostata",
+      "illustrations": [
+        {
+          "objectId": "94378",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=94378&flora_id=2",
+          "objectTaxonName": "Lagerstroemia subcostata",
+          "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc13/foci-13-300.jpg",
+          "localPath": "data/source-images/efloras-foc/94378-c89c88a4.jpg",
+          "bytes": 314413,
+          "sha256": "5cf38f4b58ce93c9f0442ff3acc1499b59d7bc3aa2f1bd7498d5a7eb17376ef2"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "柏木",
+      "catalogScientificName": "Cupressus funebris Endl.",
+      "searchTerm": "Cupressus funebris",
+      "matchedTaxonId": "200005416",
+      "matchedName": "Cupressus funebris",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005416",
+      "treatmentName": "Cupressus funebris",
+      "illustrations": [
+        {
+          "objectId": "1316",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1316&flora_id=2",
+          "objectTaxonName": "Cupressus funebris",
+          "imageUrl": "https://images.mobot.org/mrsid/094/09400001_001.gif",
+          "localPath": "data/source-images/efloras-foc/1316-d929ca3d.gif",
+          "bytes": 91524,
+          "sha256": "4fc0d348aa784e09216e97053c845d8a3c47cedfb83c7b04fd8051e03f548d56"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "柿子树",
+      "catalogScientificName": "Diospyros kaki Thunb",
+      "searchTerm": "Diospyros kaki",
+      "matchedTaxonId": "200017585",
+      "matchedName": "Diospyros kaki",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017585",
+      "treatmentName": "Diospyros kaki",
+      "illustrations": [
+        {
+          "objectId": "2635",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=2635&flora_id=2",
+          "objectTaxonName": "Diospyros kaki",
+          "imageUrl": "https://images.mobot.org/mrsid/115/11500521_001.gif",
+          "localPath": "data/source-images/efloras-foc/2635-b1c5172c.gif",
+          "bytes": 84931,
+          "sha256": "c570dcc08d1033f9c10ee2df2e126fd4bdf705417755fe57ca31e7a3177ae589"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "species": "黑松",
+      "catalogScientificName": "Pinus thunbergii Parl.",
+      "searchTerm": "Pinus thunbergii",
+      "matchedTaxonId": "200005368",
+      "matchedName": "Pinus thunbergii",
+      "treatmentUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005368",
+      "treatmentName": "Pinus thunbergii",
+      "illustrations": [
+        {
+          "objectId": "1280",
+          "objectUrl": "http://www.efloras.org/object_page.aspx?object_id=1280&flora_id=2",
+          "objectTaxonName": "Pinus thunbergii",
+          "imageUrl": "https://images.mobot.org/mrsid/249/24900046_001.gif",
+          "localPath": "data/source-images/efloras-foc/1280-ae3f4e11.gif",
+          "bytes": 168923,
+          "sha256": "dac31e7a1b494adc9e97c6a3937c501ea3e5bdf3f767fad9469a36d07c1545e5"
+        }
+      ],
+      "status": "downloaded"
+    }
+  ]
+}

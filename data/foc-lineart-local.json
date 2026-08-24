@@ -1,0 +1,142 @@
+{
+  "银杏": {
+    "species": "银杏",
+    "scientificName": "Ginkgo biloba L.",
+    "file": "/images/species/lineart/14100001_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=1203&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "朴树": {
+    "species": "朴树",
+    "scientificName": "Celtis sinensis Pers.",
+    "file": "/images/species/lineart/foci05-025.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=50155&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "圆柏": {
+    "species": "圆柏",
+    "scientificName": "Juniperus chinensis Roxb.",
+    "file": "/images/species/lineart/09400124_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=4542&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "枫杨": {
+    "species": "枫杨",
+    "scientificName": "Pterocarya stenoptera C. DC.",
+    "file": "/images/species/lineart/16700204_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=2174&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "木樨": {
+    "species": "木樨",
+    "scientificName": "Osmanthus fragrans Lour.",
+    "file": "/images/species/lineart/23000499_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=4748&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "榆树": {
+    "species": "榆树",
+    "scientificName": "Ulmus pumila L.",
+    "file": "/images/species/lineart/foci05-008.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "紫薇": {
+    "species": "紫薇",
+    "scientificName": "Lagerstroemia indica L.",
+    "file": "/images/species/lineart/foci-13-295.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=94375&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "瓶兰花": {
+    "species": "瓶兰花",
+    "scientificName": "Diospyros armata Hemsl.",
+    "file": "/images/species/lineart/11500527_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=2618&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "榔榆": {
+    "species": "榔榆",
+    "scientificName": "Ulmus parvifolia Jacq.",
+    "file": "/images/species/lineart/foci05-004.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=51035&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "柿": {
+    "species": "柿",
+    "scientificName": "Diospyros kaki Thunb.",
+    "file": "/images/species/lineart/11500521_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=2635&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "牡丹": {
+    "species": "牡丹",
+    "scientificName": "Paeonia × suffruticosa Andrews",
+    "file": "/images/species/lineart/27100422_002.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=44968&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "马尾松": {
+    "species": "马尾松",
+    "scientificName": "Pinus massoniana Lamb.",
+    "file": "/images/species/lineart/24900389_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=1271&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "南天竹": {
+    "species": "南天竹",
+    "scientificName": "Nandina domestica Thunb.",
+    "file": "/images/species/lineart/foci19-608.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=119345&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "皂荚": {
+    "species": "皂荚",
+    "scientificName": "Gleditsia sinensis Lam.",
+    "file": "/images/species/lineart/foci-10-047.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=116243&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "南京椴": {
+    "species": "南京椴",
+    "scientificName": "Tilia miqueliana Maxim.",
+    "file": "/images/species/lineart/foci-12-211.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=93488&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "榆": {
+    "species": "榆",
+    "scientificName": "Ulmus pumila L.",
+    "file": "/images/species/lineart/foci05-008.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "薜荔": {
+    "species": "薜荔",
+    "scientificName": "Ficus pumila L.",
+    "file": "/images/species/lineart/foci05-078.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=50278&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "刺槐": {
+    "species": "刺槐",
+    "scientificName": "Robinia pseudoacacia L.",
+    "file": "/images/species/lineart/foci-10-344.jpg",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=116333&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "柏木": {
+    "species": "柏木",
+    "scientificName": "Cupressus funebris Endl.",
+    "file": "/images/species/lineart/09400001_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=1316&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  },
+  "黑松": {
+    "species": "黑松",
+    "scientificName": "Pinus thunbergii Parl.",
+    "file": "/images/species/lineart/24900046_001.gif",
+    "sourceUrl": "http://www.efloras.org/object_page.aspx?object_id=1280&flora_id=2",
+    "attribution": "Flora of China Illustrations © Science Press & Missouri Botanical Garden Press, via eFloras.org"
+  }
+}

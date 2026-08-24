@@ -1,0 +1,4805 @@
+{
+  "schemaVersion": "1.0.0",
+  "assets": [
+    {
+      "id": "med_species_ormosia_hosiei_wilson",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "红豆树",
+      "caption": "红豆树（Ormosia hosiei & Wilson）的照片",
+      "altText": "红豆树 Ormosia hosiei & Wilson 照片",
+      "scientificName": "Ormosia hosiei Hemsl. & E. H. Wilson",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ormosia_hosiei_wilson",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ormosia_hosiei_wilson.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 265987,
+          "sha256": "ccbd20651f7eb04d5bb4808aa882ac219f713a4203cb0d7bddc30e0d0d3fba7a"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ormosia-ormondii-SF24331-01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ormosia-ormondii-SF24331-01.jpg/960px-Ormosia-ormondii-SF24331-01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Steve Fitzgerald",
+        "creditLine": "Steve Fitzgerald · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 1
+      }
+    },
+    {
+      "id": "med_species_buxus_sinica_rehder_wilson_cheng",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "黄杨",
+      "caption": "黄杨（Buxus sinica (Rehder & Wilson) Cheng）的图版",
+      "altText": "黄杨 Buxus sinica (Rehder & Wilson) Cheng 图版",
+      "scientificName": "Buxus sinica (Rehder & E. H. Wilson) M. Cheng",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "buxus_sinica_rehder_wilson_cheng",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_buxus_sinica_rehder_wilson_cheng.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 141205,
+          "sha256": "fd0e94f4bb60d6cf82fb04faf868418947334bf4dc4b3ac8ef93d82677a743a4"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Buxus_sinica.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Buxus_sinica.jpg/960px-Buxus_sinica.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "PiPi",
+        "creditLine": "PiPi · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 2
+      }
+    },
+    {
+      "id": "med_species_liquidambar_formosana_hance",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "枫香",
+      "caption": "枫香（Liquidambar formosana Hance）的照片",
+      "altText": "枫香 Liquidambar formosana Hance 照片",
+      "scientificName": "Liquidambar formosana Hance",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "liquidambar_formosana_hance",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_liquidambar_formosana_hance.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 148679,
+          "sha256": "ed57807ddbad7f530a9c80f90c4812d3e1f39f524d3da905753344dc388a8f25"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Liquidambar_formosana_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Liquidambar_formosana_01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Yoiyoi_kancho",
+        "creditLine": "Yoiyoi_kancho · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 3
+      }
+    },
+    {
+      "id": "med_species_quercus_variabilis_blume",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "栓皮栎",
+      "caption": "栓皮栎（Quercus variabilis Blume）的图版",
+      "altText": "栓皮栎 Quercus variabilis Blume 图版",
+      "scientificName": "Quercus variabilis Blume",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "quercus_variabilis_blume",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_quercus_variabilis_blume.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 226678,
+          "sha256": "bb7f25c8d496ee184321b87d27ecba64aa468cc552c08a6a4e0cc168da0bfc76"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_Variabilis.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Quercus_Variabilis.jpg/960px-Quercus_Variabilis.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "chiuluan",
+        "creditLine": "chiuluan · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 4
+      }
+    },
+    {
+      "id": "med_species_zelkova_schneideriana_hand_mazz",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "大叶榉树",
+      "caption": "大叶榉树（Zelkova schneideriana Hand.-Mazz.）的图版",
+      "altText": "大叶榉树 Zelkova schneideriana Hand.-Mazz. 图版",
+      "scientificName": "Zelkova schneideriana Hand.-Mazz.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "zelkova_schneideriana_hand_mazz",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_zelkova_schneideriana_hand_mazz.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 532672,
+          "sha256": "e90f20e67d96b28e84b777db00e0b83e7d153759a4466bf68b814307e735b1e2"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ming_herbal_(painting);_Zelkova_tree_Wellcome_L0039434.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ming_herbal_%28painting%29%3B_Zelkova_tree_Wellcome_L0039434.jpg/960px-Ming_herbal_%28painting%29%3B_Zelkova_tree_Wellcome_L0039434.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 5
+      }
+    },
+    {
+      "id": "med_species_celtis_sinensis",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "朴树",
+      "caption": "朴树（Celtis sinensis）的图版",
+      "altText": "朴树 Celtis sinensis 图版",
+      "scientificName": "Celtis sinensis Pers.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "celtis_sinensis",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_celtis_sinensis.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 108953,
+          "sha256": "fc12b787846804357075e8e6399f4ad4d12bc1b91aacd799a4b843520ecf2f18"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.799_-_Celtis_sinensis_(Japanese_hackberry)_-_Y%C5%ABshi_Ishizaki_-_Cock_Blomhoff_Collection_-_pencil_drawing_-_water_colour.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naturalis_Biodiversity_Center_-_RMNH.ART.799_-_Celtis_sinensis_%28Japanese_hackberry%29_-_Y%C5%ABshi_Ishizaki_-_Cock_Blomhoff_Collection_-_pencil_drawing_-_water_colour.jpg/960px-thumbnail.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Ishizaki Yūshi",
+        "creditLine": "Ishizaki Yūshi · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 6
+      }
+    },
+    {
+      "id": "med_species_juniperus_chinensis",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "圆柏",
+      "caption": "圆柏（Juniperus chinensis）的图版",
+      "altText": "圆柏 Juniperus chinensis 图版",
+      "scientificName": "Juniperus chinensis Roxb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "juniperus_chinensis",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_juniperus_chinensis.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 302011,
+          "sha256": "694438d02cf761026049d538d0cc891f8e51aef483dd95b2311f567157d2ee68"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_bonsai.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Juniperus_chinensis_bonsai.jpg/960px-Juniperus_chinensis_bonsai.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Peter coxhead",
+        "creditLine": "Peter coxhead · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 7
+      }
+    },
+    {
+      "id": "med_species_podocarpus_macrophyllus_thunb_sweet",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "罗汉松",
+      "caption": "罗汉松（Podocarpus macrophyllus (Thunb.) Sweet）的照片",
+      "altText": "罗汉松 Podocarpus macrophyllus (Thunb.) Sweet 照片",
+      "scientificName": "Podocarpus macrophyllus (Thunb.) Sweet",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "podocarpus_macrophyllus_thunb_sweet",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_podocarpus_macrophyllus_thunb_sweet.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 293868,
+          "sha256": "34a0ff489a3acecaf795e40b1cf8ef063352097a2a1222a51a9053089db6ef79"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Podocarpus_macrophyllus_(Thunb)_Sweet,_1986.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Podocarpus_macrophyllus_%28Thunb%29_Sweet%2C_1986.jpg/960px-Podocarpus_macrophyllus_%28Thunb%29_Sweet%2C_1986.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Zythème",
+        "creditLine": "Zythème · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 8
+      }
+    },
+    {
+      "id": "med_species_camphora_officinarum_nees",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "香樟",
+      "caption": "香樟（Camphora officinarum Nees）的照片",
+      "altText": "香樟 Camphora officinarum Nees 照片",
+      "scientificName": "Camphora officinarum Nees",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "camphora_officinarum_nees",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_camphora_officinarum_nees.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 605248,
+          "sha256": "237b206120e4486ccf4c24e6a2bdcbe188bbf618f020ca44f30406b40e698b26"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Izanagi-jingu_meoto_kusu_01.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Izanagi-jingu_meoto_kusu_01.JPG/960px-Izanagi-jingu_meoto_kusu_01.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "弥 (talk)",
+        "creditLine": "弥 (talk) · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 9
+      }
+    },
+    {
+      "id": "med_species_pterocarya_stenoptera",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "枫杨",
+      "caption": "枫杨（Pterocarya stenoptera）的照片",
+      "altText": "枫杨 Pterocarya stenoptera 照片",
+      "scientificName": "Pterocarya stenoptera C. DC.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pterocarya_stenoptera",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pterocarya_stenoptera.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 262198,
+          "sha256": "5c68d8a2d18704f2ce4c919de7f8d96567ca773c0890dc1fc8a1c19a6b9bbadc"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pterocarya_stenoptera_kz05.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pterocarya_stenoptera_kz05.jpg/960px-Pterocarya_stenoptera_kz05.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "creditLine": "Krzysztof Ziarnek, Kenraiz · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 10
+      }
+    },
+    {
+      "id": "med_species_campsis_grandiflora_thunb",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "凌霄",
+      "caption": "凌霄（Campsis grandiflora (Thunb.)）的图版",
+      "altText": "凌霄 Campsis grandiflora (Thunb.) 图版",
+      "scientificName": "Campsis grandiflora (Thunb.) Schum.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "campsis_grandiflora_thunb",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_campsis_grandiflora_thunb.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 113935,
+          "sha256": "7c77e559703ac0332780b93d4b253b77837d80b8ab6107f6a7493a7e7d54ad38"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:CampsisGrandiflora.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/CampsisGrandiflora.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · CC BY-SA 2.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 11
+      }
+    },
+    {
+      "id": "med_species_osmanthus_fragrans",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "木樨",
+      "caption": "木樨（Osmanthus fragrans）的照片",
+      "altText": "木樨 Osmanthus fragrans 照片",
+      "scientificName": "Osmanthus fragrans Lour.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "osmanthus_fragrans",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_osmanthus_fragrans.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 107152,
+          "sha256": "c3180f6e4a0d80148bb1bd513face8b1793994b81edb5fa021909f120bbd2a66"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Osmanthus_fragrans_kz2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Osmanthus_fragrans_kz2.jpg/960px-Osmanthus_fragrans_kz2.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "creditLine": "Krzysztof Ziarnek, Kenraiz · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 12
+      }
+    },
+    {
+      "id": "med_species_ulmus_pumila",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "榆树",
+      "caption": "榆树（Ulmus pumila）的照片",
+      "altText": "榆树 Ulmus pumila 照片",
+      "scientificName": "Ulmus pumila L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ulmus_pumila",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ulmus_pumila.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 65890,
+          "sha256": "ce94f60a8bce3c37f09af67de0317a9c68013e29d2988408c11073361848ca39"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Siberian_Elm_(Ulmus_pumila)_-_Guelph,_Ontario_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Siberian_Elm_%28Ulmus_pumila%29_-_Guelph%2C_Ontario_01.jpg/960px-Siberian_Elm_%28Ulmus_pumila%29_-_Guelph%2C_Ontario_01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Ryan Hodnett",
+        "creditLine": "Ryan Hodnett · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 13
+      }
+    },
+    {
+      "id": "med_species_magnolia_grandiflora",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "荷花玉兰",
+      "caption": "荷花玉兰（Magnolia grandiflora）的照片",
+      "altText": "荷花玉兰 Magnolia grandiflora 照片",
+      "scientificName": "Magnolia grandiflora L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "magnolia_grandiflora",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_magnolia_grandiflora.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 136814,
+          "sha256": "65710cb47e48f381bfccf9321803e92b1367731f45b62da7fe9e0064af075476"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_-_flower_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Magnolia_grandiflora_-_flower_1.jpg/960px-Magnolia_grandiflora_-_flower_1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Ianaré Sévi",
+        "creditLine": "Ianaré Sévi · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 14
+      }
+    },
+    {
+      "id": "med_species_sabina_chinensis_kaizuca",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "龙柏",
+      "caption": "龙柏（Sabina chinensis Kaizuca）的照片",
+      "altText": "龙柏 Sabina chinensis Kaizuca 照片",
+      "scientificName": "Sabina chinensis cv. Kaizuca",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "sabina_chinensis_kaizuca",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_sabina_chinensis_kaizuca.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 587538,
+          "sha256": "66a27018383cd2fdd2b196a0685d9e536b593e6704a58734b3bb6b48d896720c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:SabinaKaizuca.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SabinaKaizuca.jpg/960px-SabinaKaizuca.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Taken by  Fanghong",
+        "creditLine": "Taken by  Fanghong · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 15
+      }
+    },
+    {
+      "id": "med_species_acer_palmatum",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "鸡爪槭",
+      "caption": "鸡爪槭（Acer palmatum）的图版",
+      "altText": "鸡爪槭 Acer palmatum 图版",
+      "scientificName": "Acer palmatum Thunb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "acer_palmatum",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_acer_palmatum.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 203467,
+          "sha256": "db0179f0067c26fee9bda57d151dc54f961801e8b2b5c400e7a52ea1d08f355b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Acer_palmatum_005.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Acer_palmatum_005.JPG/960px-Acer_palmatum_005.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "H. Zell",
+        "creditLine": "H. Zell · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 16
+      }
+    },
+    {
+      "id": "med_species_acer_buergerianum_miq",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "三角槭",
+      "caption": "三角槭（Acer buergerianum Miq）的照片",
+      "altText": "三角槭 Acer buergerianum Miq 照片",
+      "scientificName": "Acer buergerianum Miq",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "acer_buergerianum_miq",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_acer_buergerianum_miq.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 334552,
+          "sha256": "61ba3016397c697276d622ca44dd26858d51e549698af2145321760b136d0542"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_Miq._(AM_AK294131-1).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Acer_buergerianum_Miq._%28AM_AK294131-1%29.jpg/960px-Acer_buergerianum_Miq._%28AM_AK294131-1%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Ewen Cameron",
+        "creditLine": "Ewen Cameron · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 17
+      }
+    },
+    {
+      "id": "med_species_campsis_radicans_l",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "厚萼凌霄",
+      "caption": "厚萼凌霄（Campsis radicans (L.)）的图版",
+      "altText": "厚萼凌霄 Campsis radicans (L.) 图版",
+      "scientificName": "Campsis radicans (L.) Seem.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "campsis_radicans_l",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_campsis_radicans_l.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 221102,
+          "sha256": "17de1f0043e9f79ab61b9a55f8b79f2ca9b649191efac9fd3a858284df4fd0df"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_(L.)_Seem._ex_Bureau_Trumpet_creeper.tiff",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Campsis_radicans_%28L.%29_Seem._ex_Bureau_Trumpet_creeper.tiff/lossy-page1-960px-Campsis_radicans_%28L.%29_Seem._ex_Bureau_Trumpet_creeper.tiff.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Britton, N.L., and A. Brown.",
+        "creditLine": "Britton, N.L., and A. Brown. · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 18
+      }
+    },
+    {
+      "id": "med_species_lagerstroemia_indica",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "紫薇",
+      "caption": "紫薇（Lagerstroemia indica）的照片",
+      "altText": "紫薇 Lagerstroemia indica 照片",
+      "scientificName": "Lagerstroemia indica L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "lagerstroemia_indica",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_lagerstroemia_indica.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 223858,
+          "sha256": "6a19ebe5d42804a2d23ea1fe455fc9cd9e7dd9267a66c0c8e03a92ac1d96fff7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:(MHNT)_Lagerstroemia_indica_%27Crimson_Red_Black_Diamond%27_jardins_des_Martels.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%28MHNT%29_Lagerstroemia_indica_%27Crimson_Red_Black_Diamond%27_jardins_des_Martels.jpg/960px-%28MHNT%29_Lagerstroemia_indica_%27Crimson_Red_Black_Diamond%27_jardins_des_Martels.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Didier Descouens",
+        "creditLine": "Didier Descouens · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 19
+      }
+    },
+    {
+      "id": "med_species_yulania_denudata_desr_fu",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "玉兰",
+      "caption": "玉兰（Yulania denudata (Desr.) Fu）的照片",
+      "altText": "玉兰 Yulania denudata (Desr.) Fu 照片",
+      "scientificName": "Yulania denudata (Desr.) D. L. Fu",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "yulania_denudata_desr_fu",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_yulania_denudata_desr_fu.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 411328,
+          "sha256": "2454819fd223781adcbb26013fa8f39f70d72d17b6e56ec425af1bb1c31f89c6"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Magnolia_denudata_-_Orto_botanico_di_Pisa_-_fiore_-_feb_2025_(03).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Magnolia_denudata_-_Orto_botanico_di_Pisa_-_fiore_-_feb_2025_%2803%29.jpg/960px-Magnolia_denudata_-_Orto_botanico_di_Pisa_-_fiore_-_feb_2025_%2803%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Harlock81",
+        "creditLine": "Harlock81 · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 20
+      }
+    },
+    {
+      "id": "med_species_styphnolobium_japonicum_pendula",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "龙爪槐",
+      "caption": "龙爪槐（Styphnolobium japonicum 'Pendula'）的照片",
+      "altText": "龙爪槐 Styphnolobium japonicum 'Pendula' 照片",
+      "scientificName": "Styphnolobium japonicum 'Pendula'",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "styphnolobium_japonicum_pendula",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_styphnolobium_japonicum_pendula.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 551638,
+          "sha256": "8ed9117b7f5e26b88225b6c3d97fe484570ca14c60e2c7953d11d113b6a157be"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Styphnolobium_japonicum_%27Pendula%27_-_Jardin_Botanique_Yves_Rocher_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Styphnolobium_japonicum_%27Pendula%27_-_Jardin_Botanique_Yves_Rocher_01.jpg/960px-Styphnolobium_japonicum_%27Pendula%27_-_Jardin_Botanique_Yves_Rocher_01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Wilrooij",
+        "creditLine": "Wilrooij · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 21
+      }
+    },
+    {
+      "id": "med_species_chimonanthus_praecox_l_link",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "蜡梅",
+      "caption": "蜡梅（Chimonanthus praecox (L.) Link）的照片",
+      "altText": "蜡梅 Chimonanthus praecox (L.) Link 照片",
+      "scientificName": "Chimonanthus praecox (L.) Link",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "chimonanthus_praecox_l_link",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_chimonanthus_praecox_l_link.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 184319,
+          "sha256": "65712f44e3e0c8b5614421282bea1ded7235c6a63289f5f09a3aed2c8302258c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Chimonanthus_praecox_(18248235374).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chimonanthus_praecox_%2818248235374%29.jpg/960px-Chimonanthus_praecox_%2818248235374%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "creator": "M a n u e l from Valdemoro, Spain",
+        "creditLine": "M a n u e l from Valdemoro, Spain · Wikimedia Commons · CC BY 2.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 22
+      }
+    },
+    {
+      "id": "med_species_pinus_bungeana_ex",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "白皮松",
+      "caption": "白皮松（Pinus bungeana ex）的图版",
+      "altText": "白皮松 Pinus bungeana ex 图版",
+      "scientificName": "Pinus bungeana Zucc. ex Endl.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pinus_bungeana_ex",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pinus_bungeana_ex.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 201741,
+          "sha256": "ea2f4abbb8f3066b88dc0169b8a632679e7af422cc67e51058847cb38e2a1c36"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lacebark_pine_-_Jaedong,_Seoul,_South_Korea.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lacebark_pine_-_Jaedong%2C_Seoul%2C_South_Korea.jpg/960px-Lacebark_pine_-_Jaedong%2C_Seoul%2C_South_Korea.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "User:Gs30ng",
+        "creditLine": "User:Gs30ng · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 23
+      }
+    },
+    {
+      "id": "med_species_wisteria_sinensis_sims_sweet",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "紫藤",
+      "caption": "紫藤（Wisteria sinensis (Sims) Sweet）的照片",
+      "altText": "紫藤 Wisteria sinensis (Sims) Sweet 照片",
+      "scientificName": "Wisteria sinensis (Sims) Sweet",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "wisteria_sinensis_sims_sweet",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_wisteria_sinensis_sims_sweet.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 352671,
+          "sha256": "f0a42cfbf96cd04354b57a62fefa0a9d13b00d54e432b2b98b354ddd1ba5e9cc"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Glicini_monumentali_2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Glicini_monumentali_2.jpg/960px-Glicini_monumentali_2.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Ivan Ruggiero\nI'd appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia)",
+        "creditLine": "Ivan Ruggiero\nI'd appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia) · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 24
+      }
+    },
+    {
+      "id": "med_species_sageretia_thea_osbeck_johnst",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "雀梅藤",
+      "caption": "雀梅藤（Sageretia thea (Osbeck) Johnst.）的照片",
+      "altText": "雀梅藤 Sageretia thea (Osbeck) Johnst. 照片",
+      "scientificName": "Sageretia thea (Osbeck) M. C. Johnst.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "sageretia_thea_osbeck_johnst",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_sageretia_thea_osbeck_johnst.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 261130,
+          "sha256": "68bff881424149e855305e3e59c083d12c7d49106fa7da056eb9f049eea3b425"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Paupers_Tea_(Sageretia_thea)_(3563792264).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paupers_Tea_%28Sageretia_thea%29_%283563792264%29.jpg/960px-Paupers_Tea_%28Sageretia_thea%29_%283563792264%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "creator": "Cliff from Arlington, Virginia, USA",
+        "creditLine": "Cliff from Arlington, Virginia, USA · Wikimedia Commons · CC BY 2.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 25
+      }
+    },
+    {
+      "id": "med_species_triadica_sebifera_l_small",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "乌桕",
+      "caption": "乌桕（Triadica sebifera (L.) Small）的图版",
+      "altText": "乌桕 Triadica sebifera (L.) Small 图版",
+      "scientificName": "Triadica sebifera (L.) Small",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "triadica_sebifera_l_small",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_triadica_sebifera_l_small.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 307450,
+          "sha256": "75b069af4594c6e03d61d06f21b0d67b741d182227174f1a04c9f7628d93bccc"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_North_American_sylva_(Pl._LXII)_(9149868713).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_North_American_sylva_%28Pl._LXII%29_%289149868713%29.jpg/960px-The_North_American_sylva_%28Pl._LXII%29_%289149868713%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Michaux, François André; Nuttall, Thomas; Smith, J. Jay",
+        "creditLine": "Michaux, François André; Nuttall, Thomas; Smith, J. Jay · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 26
+      }
+    },
+    {
+      "id": "med_species_michelia_figo_lour_spreng",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "含笑花",
+      "caption": "含笑花（Michelia figo (Lour.) Spreng.）的照片",
+      "altText": "含笑花 Michelia figo (Lour.) Spreng. 照片",
+      "scientificName": "Michelia figo (Lour.) Spreng.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "michelia_figo_lour_spreng",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_michelia_figo_lour_spreng.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 131698,
+          "sha256": "1b949b8671eee3329cb953fc1d5d8b10b4530d01cee055355833a773f6be081d"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Michelia_figo--IMG_0005.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Michelia_figo--IMG_0005.jpg/960px-Michelia_figo--IMG_0005.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Sun Jiao (Interaccoonale)",
+        "creditLine": "Sun Jiao (Interaccoonale) · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 27
+      }
+    },
+    {
+      "id": "med_species_pinus_parviflora_siebold_et",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "日本五针松",
+      "caption": "日本五针松（Pinus parviflora Siebold et）的图版",
+      "altText": "日本五针松 Pinus parviflora Siebold et 图版",
+      "scientificName": "Pinus parviflora Siebold et Zucc.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pinus_parviflora_siebold_et",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pinus_parviflora_siebold_et.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 238938,
+          "sha256": "cd46b5f564e6882ef51e08426446b906eb841dac45e4e2fddc4cea1da52f92d7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pinus_parviflora_PAN_male_cones.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pinus_parviflora_PAN_male_cones.jpg/960px-Pinus_parviflora_PAN_male_cones.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Crusier",
+        "creditLine": "Crusier · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 28
+      }
+    },
+    {
+      "id": "med_species_ilex_cornuta_paxton",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "枸骨",
+      "caption": "枸骨（Ilex cornuta & Paxton）的图版",
+      "altText": "枸骨 Ilex cornuta & Paxton 图版",
+      "scientificName": "Ilex cornuta Lindl. & Paxton",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ilex_cornuta_paxton",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ilex_cornuta_paxton.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 358945,
+          "sha256": "76efd7d68c8efd1fe2f55775367dbdca25cf86a61704e5b18d774fcbe1b4b377"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:L%27Illustration_horticole_(Plate_010).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/L%27Illustration_horticole_%28Plate_010%29.jpg/960px-L%27Illustration_horticole_%28Plate_010%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Lemaire, Charles Antoine",
+        "creditLine": "Lemaire, Charles Antoine · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 29
+      }
+    },
+    {
+      "id": "med_species_juniperus_formosana_hayata",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "刺柏",
+      "caption": "刺柏（Juniperus formosana Hayata）的图版",
+      "altText": "刺柏 Juniperus formosana Hayata 图版",
+      "scientificName": "Juniperus formosana Hayata",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "juniperus_formosana_hayata",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_juniperus_formosana_hayata.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 256105,
+          "sha256": "eacb6aaa204e301a26d9ed22556c980e7f3d8fc188b04b23cc38f79ece96fa9b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Saxicola_maurus_indicus_on_Juniperus_formosana_-_Gould.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Saxicola_maurus_indicus_on_Juniperus_formosana_-_Gould.jpg/960px-Saxicola_maurus_indicus_on_Juniperus_formosana_-_Gould.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "John Gould / Henry Constantine Richter",
+        "creditLine": "John Gould / Henry Constantine Richter · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 30
+      }
+    },
+    {
+      "id": "med_species_ulmus_parvifolia",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "榔榆",
+      "caption": "榔榆（Ulmus parvifolia）的照片",
+      "altText": "榔榆 Ulmus parvifolia 照片",
+      "scientificName": "Ulmus parvifolia Jacq.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ulmus_parvifolia",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ulmus_parvifolia.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 347527,
+          "sha256": "e6205e446c37774db90e4ba651583533d05316c7bde34fdfef8177b435b68e8c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_(Hilversum).JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RN_Ulmus_parvifolia_%28Hilversum%29.JPG/960px-RN_Ulmus_parvifolia_%28Hilversum%29.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Ronnie Nijboer",
+        "creditLine": "Ronnie Nijboer · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 31
+      }
+    },
+    {
+      "id": "med_species_punica_granatum",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "石榴",
+      "caption": "石榴（Punica granatum）的图版",
+      "altText": "石榴 Punica granatum 图版",
+      "scientificName": "Punica granatum L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "punica_granatum",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_punica_granatum.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 398579,
+          "sha256": "aa3ad785f054ab8b3744319109a6a847e87afff9dedb027d0dd241ce4e13797b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Punica_granatum2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Illustration_Punica_granatum2.jpg/960px-Illustration_Punica_granatum2.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 32
+      }
+    },
+    {
+      "id": "med_species_lycium_chinense",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "枸杞",
+      "caption": "枸杞（Lycium chinense）的图版",
+      "altText": "枸杞 Lycium chinense 图版",
+      "scientificName": "Lycium chinense Mill.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "lycium_chinense",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_lycium_chinense.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 38190,
+          "sha256": "84963d514e14bf407f4d9313cfb3532a4aa1138af6a0cc713eaa62319fdd67b5"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:30_Lycium_chinense_par_Pierre-Joseph_Redout%C3%A9.jpeg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/30_Lycium_chinense_par_Pierre-Joseph_Redout%C3%A9.jpeg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Pierre-Joseph Redouté",
+        "creditLine": "Pierre-Joseph Redouté · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 33
+      }
+    },
+    {
+      "id": "med_species_diospyros_kaki",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "柿",
+      "caption": "柿（Diospyros kaki）的图版",
+      "altText": "柿 Diospyros kaki 图版",
+      "scientificName": "Diospyros kaki Thunb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "diospyros_kaki",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_diospyros_kaki.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 210201,
+          "sha256": "ecbfd9879c7f89b9ee7fe703ca5f4692efd85ac42aeebf50427cdd0874698547"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_kaki_fruit_02_by_Line1.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Diospyros_kaki_fruit_02_by_Line1.JPG/960px-Diospyros_kaki_fruit_02_by_Line1.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Liné1",
+        "creditLine": "Liné1 · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 34
+      }
+    },
+    {
+      "id": "med_species_paeonia_suffruticosa_andrews",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "牡丹",
+      "caption": "牡丹（Paeonia × suffruticosa Andrews）的图版",
+      "altText": "牡丹 Paeonia × suffruticosa Andrews 图版",
+      "scientificName": "Paeonia × suffruticosa Andrews",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "paeonia_suffruticosa_andrews",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_paeonia_suffruticosa_andrews.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 334996,
+          "sha256": "af34b850a98e9a27c620d4215844e88b5e0bdad78562aa033195e5907d632b8d"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Paeonia_%C3%97_suffruticosa_Paxton_020.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paeonia_%C3%97_suffruticosa_Paxton_020.jpg/960px-Paeonia_%C3%97_suffruticosa_Paxton_020.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "John Lindley and Joseph Paxton, drawing by L. A. L. Constans",
+        "creditLine": "John Lindley and Joseph Paxton, drawing by L. A. L. Constans · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 35
+      }
+    },
+    {
+      "id": "med_species_castanea_mollissima",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "板栗",
+      "caption": "板栗（Castanea mollissima）的图版",
+      "altText": "板栗 Castanea mollissima 图版",
+      "scientificName": "Castanea mollissima Bl.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "castanea_mollissima",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_castanea_mollissima.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 215140,
+          "sha256": "e5d580a6133da995de0002f8d37e604e980a33299b30f9ae63dafaeca39bb165"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Castanea_mollissima,_Hangzhou_Botanical_Garden_2018.06.03_15-38-22.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Castanea_mollissima%2C_Hangzhou_Botanical_Garden_2018.06.03_15-38-22.jpg/960px-Castanea_mollissima%2C_Hangzhou_Botanical_Garden_2018.06.03_15-38-22.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Zhangzhugang",
+        "creditLine": "Zhangzhugang · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 36
+      }
+    },
+    {
+      "id": "med_species_pinus_massoniana",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "马尾松",
+      "caption": "马尾松（Pinus massoniana）的图版",
+      "altText": "马尾松 Pinus massoniana 图版",
+      "scientificName": "Pinus massoniana Lamb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pinus_massoniana",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pinus_massoniana.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 353668,
+          "sha256": "fd9927b90c0904a732ea1a05699398184537ad16b43039b680f8401e1be05f92"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pinus_massoniana,_Wu_Gorge,_Chongqing,_China_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pinus_massoniana%2C_Wu_Gorge%2C_Chongqing%2C_China_1.jpg/960px-Pinus_massoniana%2C_Wu_Gorge%2C_Chongqing%2C_China_1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "meurkc",
+        "creditLine": "meurkc · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 37
+      }
+    },
+    {
+      "id": "med_species_pseudolarix_amabilis_nelson_rehder",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "金钱松",
+      "caption": "金钱松（Pseudolarix amabilis Nelson) Rehder）的图版",
+      "altText": "金钱松 Pseudolarix amabilis Nelson) Rehder 图版",
+      "scientificName": "Pseudolarix amabilis (J. Nelson) Rehder",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pseudolarix_amabilis_nelson_rehder",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pseudolarix_amabilis_nelson_rehder.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 1510509,
+          "sha256": "6e311b724503c04ebf6b7ba3fac24365226aa668c56ec180118c7111ea69b601"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pseudolarix_amabilis,_Tianmushan_Reserve,_Hangzhou,_Zhejiang,_China_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Pseudolarix_amabilis%2C_Tianmushan_Reserve%2C_Hangzhou%2C_Zhejiang%2C_China_1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "jcsvenning",
+        "creditLine": "jcsvenning · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 38
+      }
+    },
+    {
+      "id": "med_species_catalpa_bungei_c_a_mey",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "楸树",
+      "caption": "楸树（Catalpa bungei C.A.Mey）的照片",
+      "altText": "楸树 Catalpa bungei C.A.Mey 照片",
+      "scientificName": "Catalpa bungei C.A.Mey",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "catalpa_bungei_c_a_mey",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_catalpa_bungei_c_a_mey.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 170504,
+          "sha256": "68534e3bc01ab8528e8504d176c70036be1860121fdb228f8591bd84e91d335f"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Catalpa_bungei_flowers.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Catalpa_bungei_flowers.jpg/960px-Catalpa_bungei_flowers.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "HorsePunchKid",
+        "creditLine": "HorsePunchKid · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 39
+      }
+    },
+    {
+      "id": "med_species_morella_rubra",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "杨梅",
+      "caption": "杨梅（Morella rubra）的照片",
+      "altText": "杨梅 Morella rubra 照片",
+      "scientificName": "Morella rubra Lour.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "morella_rubra",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_morella_rubra.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 231436,
+          "sha256": "160bb15d04ace159bae785bf77e3d38417ce3c20d6d562f682c7ed94c69e1799"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Morella_rubra_(fruits).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Morella_rubra_%28fruits%29.jpg/960px-Morella_rubra_%28fruits%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Alpsdake",
+        "creditLine": "Alpsdake · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 40
+      }
+    },
+    {
+      "id": "med_species_nandina_domestica",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "南天竹",
+      "caption": "南天竹（Nandina domestica）的照片",
+      "altText": "南天竹 Nandina domestica 照片",
+      "scientificName": "Nandina domestica Thunb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "nandina_domestica",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_nandina_domestica.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 250324,
+          "sha256": "eadaf76c4cd5ca3c35d3cf607a099f679b86dc98fed244ee7323c0c583d01a4c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nandina_domestica_PfP.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nandina_domestica_PfP.jpg/960px-Nandina_domestica_PfP.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Jebulon",
+        "creditLine": "Jebulon · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 41
+      }
+    },
+    {
+      "id": "med_species_prunus_mume_siebold",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "梅",
+      "caption": "梅（Prunus mume Siebold &）的图版",
+      "altText": "梅 Prunus mume Siebold & 图版",
+      "scientificName": "Prunus mume Siebold & Zucc.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "prunus_mume_siebold",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_prunus_mume_siebold.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 101296,
+          "sha256": "ac583ed5b1c4766413ef717d07e341922cf304af1f15543b01bfe15e7fbfaaac"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.364-Prunus_mume-Chamaecyparis_obtusa-Pinus_parviflora-Daphne_odora-Chaenomeles_speciosa-Pinus_parviflora-Y%C5%ABshi_Ishizaki-_Cock_Blomhoff_Collection_-pencil_drawing-water_colour.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturalis_Biodiversity_Center_-_RMNH.ART.364-Prunus_mume-Chamaecyparis_obtusa-Pinus_parviflora-Daphne_odora-Chaenomeles_speciosa-Pinus_parviflora-Y%C5%ABshi_Ishizaki-_Cock_Blomhoff_Collection_-pencil_drawing-water_colour.jpg/960px-thumbnail.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Ishizaki Yūshi",
+        "creditLine": "Ishizaki Yūshi · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 42
+      }
+    },
+    {
+      "id": "med_species_cedrus_deodara_roxb_don",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "雪松",
+      "caption": "雪松（Cedrus deodara (Roxb.) Don）的图版",
+      "altText": "雪松 Cedrus deodara (Roxb.) Don 图版",
+      "scientificName": "Cedrus deodara (Roxb.) G. Don",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "cedrus_deodara_roxb_don",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_cedrus_deodara_roxb_don.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 84166,
+          "sha256": "1b5037bcd7d41665ae323383f4a3a42b43fd921874306cb76226ae709b647007"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cedrus_deodara_Aurea_1zz.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cedrus_deodara_Aurea_1zz.jpg/960px-Cedrus_deodara_Aurea_1zz.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Photo by David J. Stang",
+        "creditLine": "Photo by David J. Stang · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 43
+      }
+    },
+    {
+      "id": "med_species_platanus_acerifolia_aiton",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "二球悬铃木",
+      "caption": "二球悬铃木（Platanus acerifolia (Aiton)）的照片",
+      "altText": "二球悬铃木 Platanus acerifolia (Aiton) 照片",
+      "scientificName": "Platanus acerifolia (Aiton) Willd.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "platanus_acerifolia_aiton",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_platanus_acerifolia_aiton.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 578924,
+          "sha256": "423ca10b19821c61ca1fc842f4516bffb8cbce3d370b6129a5ced202e9cc23cd"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Collection_de_bois_de_la_Xyloth%C3%A8que_du_Cirad._Bois_de_la_Collection_de_r%C3%A9f%C3%A9rence._Platanus_acerifolia_(Aiton)_Willd._(Syn._Platanus_hybridus,_Platanus_orientalis_acerifolia)_-_Famille_des_Platanac%C3%A9es_(France)_-_btv1b101134536.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Collection_de_bois_de_la_Xyloth%C3%A8que_du_Cirad._Bois_de_la_Collection_de_r%C3%A9f%C3%A9rence._Platanus_acerifolia_%28Aiton%29_Willd._%28Syn._Platanus_hybridus%2C_Platanus_orientalis_acerifolia%29_-_Famille_des_Platanac%C3%A9es_%28France%29_-_btv1b101134536.jpg/960px-thumbnail.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Centre de coopération internationale en recherche agronomique pour le développement (France). Programme Bois. Producteur d'un fonds d'archives",
+        "creditLine": "Centre de coopération internationale en recherche agronomique pour le développement (France). Programme Bois. Producteur d'un fonds d'archives · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 44
+      }
+    },
+    {
+      "id": "med_species_pistacia_chinensis_bunge",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "黄连木",
+      "caption": "黄连木（Pistacia chinensis Bunge）的图版",
+      "altText": "黄连木 Pistacia chinensis Bunge 图版",
+      "scientificName": "Pistacia chinensis Bunge",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pistacia_chinensis_bunge",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pistacia_chinensis_bunge.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 438879,
+          "sha256": "8e1a9aeae290a2a3d792def165956aa2f4e87bd45aeb1f1c510ad02ead4b6084"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pistacia_chinensis.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pistacia_chinensis.jpg/960px-Pistacia_chinensis.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 45
+      }
+    },
+    {
+      "id": "med_species_viburnum_keteleeri_carri_re",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "琼花",
+      "caption": "琼花（Viburnum keteleeri Carrière）的图版",
+      "altText": "琼花 Viburnum keteleeri Carrière 图版",
+      "scientificName": "Viburnum keteleeri Carrière",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "viburnum_keteleeri_carri_re",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_viburnum_keteleeri_carri_re.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 85091,
+          "sha256": "ad2925545cc059b8ee12d36c7c69fd08b805e2c26187b10455748f39718c7c73"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Viburnum_tinus_MHNT.BOT.2004.0.808.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Viburnum_tinus_MHNT.BOT.2004.0.808.jpg/960px-Viburnum_tinus_MHNT.BOT.2004.0.808.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Roger Culos",
+        "creditLine": "Roger Culos · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 46
+      }
+    },
+    {
+      "id": "med_species_ligustrum_lucidum_aiton",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "女贞",
+      "caption": "女贞（Ligustrum lucidum Aiton）的照片",
+      "altText": "女贞 Ligustrum lucidum Aiton 照片",
+      "scientificName": "Ligustrum lucidum W. T. Aiton",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ligustrum_lucidum_aiton",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ligustrum_lucidum_aiton.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 573755,
+          "sha256": "93776b7a277a7d3cadf9a6f440a6e353444af7c1ea616258dd13995498cbde7d"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:202505_Ligustrum_lucidum.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/202505_Ligustrum_lucidum.jpg/960px-202505_Ligustrum_lucidum.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Shi Annan",
+        "creditLine": "Shi Annan · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 47
+      }
+    },
+    {
+      "id": "med_species_quercus_glauca",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "青冈",
+      "caption": "青冈（Quercus glauca）的图版",
+      "altText": "青冈 Quercus glauca 图版",
+      "scientificName": "Quercus glauca Thunb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "quercus_glauca",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_quercus_glauca.png",
+          "mimeType": "image/png",
+          "bytes": 1526757,
+          "sha256": "fdff068afbb77bd1c9207bebbe77ddf69fc8f2f55a23a0f98fc8d98126c5ae1b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_glauca_Bra65.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Quercus_glauca_Bra65.png/960px-Quercus_glauca_Bra65.png",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 48
+      }
+    },
+    {
+      "id": "med_species_castanopsis_sclerophylla_lindl_schottky",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "苦槠",
+      "caption": "苦槠（Castanopsis sclerophylla (Lindl.) Schottky）的图版",
+      "altText": "苦槠 Castanopsis sclerophylla (Lindl.) Schottky 图版",
+      "scientificName": "Castanopsis sclerophylla (Lindl.) Schottky",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "castanopsis_sclerophylla_lindl_schottky",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_castanopsis_sclerophylla_lindl_schottky.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 93466,
+          "sha256": "9d4928be3383cdbfc7d232461b5bb1346e23c66c618a6cb9a60e7410f2d51acd"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Castanopsis_fissa_427089135.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castanopsis_fissa_427089135.jpg/960px-Castanopsis_fissa_427089135.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Agnes Trekker",
+        "creditLine": "Agnes Trekker · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 49
+      }
+    },
+    {
+      "id": "med_species_styphnolobium_japonicum_l_schott",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "槐",
+      "caption": "槐（Styphnolobium japonicum (L.) Schott）的图版",
+      "altText": "槐 Styphnolobium japonicum (L.) Schott 图版",
+      "scientificName": "Styphnolobium japonicum (L.) Schott",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "styphnolobium_japonicum_l_schott",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_styphnolobium_japonicum_l_schott.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 353508,
+          "sha256": "c2a3f42308404cd2ae53cf1ac7278dcbc524f4cdc2628f0f628dfe2734b6cece"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:SophoraJaponicaTrees.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SophoraJaponicaTrees.jpg/960px-SophoraJaponicaTrees.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 50
+      }
+    },
+    {
+      "id": "med_species_platycladus_orientalis_l_franco",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "侧柏",
+      "caption": "侧柏（Platycladus orientalis (L.) Franco）的图版",
+      "altText": "侧柏 Platycladus orientalis (L.) Franco 图版",
+      "scientificName": "Platycladus orientalis (L.) Franco",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "platycladus_orientalis_l_franco",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_platycladus_orientalis_l_franco.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 471628,
+          "sha256": "ae442c6e9a6d68e60e6ce0a8ae3a70c63ed709996f2b75d38a75efd6a6cc2a14"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Platycladus_orientalis_Aurea_Nana20200930_17084.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Platycladus_orientalis_Aurea_Nana20200930_17084.jpg/960px-Platycladus_orientalis_Aurea_Nana20200930_17084.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Bff",
+        "creditLine": "Bff · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 51
+      }
+    },
+    {
+      "id": "med_species_gleditsia_sinensis",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "皂荚",
+      "caption": "皂荚（Gleditsia sinensis）的图版",
+      "altText": "皂荚 Gleditsia sinensis 图版",
+      "scientificName": "Gleditsia sinensis Lam.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "gleditsia_sinensis",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_gleditsia_sinensis.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 269168,
+          "sha256": "2588a1b7ef92a3a4811a332790451b6338812b7d5397604346b9b4d70f52cfcb"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Gleditsia_sinensis_-_Chengdu_Botanical_Garden_-_Chengdu,_China_-_DSC03477.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gleditsia_sinensis_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03477.JPG/960px-Gleditsia_sinensis_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03477.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 52
+      }
+    },
+    {
+      "id": "med_species_aphananthe_aspera_thunb_planch",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "糙叶树",
+      "caption": "糙叶树（Aphananthe aspera (Thunb.) Planch.）的图版",
+      "altText": "糙叶树 Aphananthe aspera (Thunb.) Planch. 图版",
+      "scientificName": "Aphananthe aspera (Thunb.) Planch.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "aphananthe_aspera_thunb_planch",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_aphananthe_aspera_thunb_planch.png",
+          "mimeType": "image/png",
+          "bytes": 189364,
+          "sha256": "21d61f6253e2a6db6e8075317cbdb79317116afd3faafb91c5fd3588932dda83"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:202412_Aphananthe_aspera.svg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/202412_Aphananthe_aspera.svg/960px-202412_Aphananthe_aspera.svg.png",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "DataBase Center for Life Science (DBCLS)",
+        "creditLine": "DataBase Center for Life Science (DBCLS) · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 53
+      }
+    },
+    {
+      "id": "med_species_cryptomeria_japonica_sinensis",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "柳杉",
+      "caption": "柳杉（Cryptomeria japonica sinensis）的照片",
+      "altText": "柳杉 Cryptomeria japonica sinensis 照片",
+      "scientificName": "Cryptomeria japonica var. sinensis Miq.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "cryptomeria_japonica_sinensis",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_cryptomeria_japonica_sinensis.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 179166,
+          "sha256": "5c033f90ca2c595e66ee65dfbfaf8b7a3bf2fc41faf2b8e1af7aabb6066106af"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cryptomeria_japonica_var._sinensis--IMG_20171027_075222.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Cryptomeria_japonica_var._sinensis--IMG_20171027_075222.jpg/960px-Cryptomeria_japonica_var._sinensis--IMG_20171027_075222.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Sun Jiao (Interaccoonale)",
+        "creditLine": "Sun Jiao (Interaccoonale) · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 54
+      }
+    },
+    {
+      "id": "med_species_elaeagnus_argyi",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "佘山羊奶子",
+      "caption": "佘山羊奶子（Elaeagnus argyi）的图版",
+      "altText": "佘山羊奶子 Elaeagnus argyi 图版",
+      "scientificName": "Elaeagnus argyi H. Lév.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "elaeagnus_argyi",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_elaeagnus_argyi.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 121072,
+          "sha256": "f4242c74860d09cf1ce0a2f65145006ed9a5e34f0b92da95f9dcbf4a650ab7c6"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.890_-_Elaeagnus_umbellata_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_pencil_drawing_-_water_colour.jpeg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Naturalis_Biodiversity_Center_-_RMNH.ART.890_-_Elaeagnus_umbellata_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_pencil_drawing_-_water_colour.jpeg/960px-Naturalis_Biodiversity_Center_-_RMNH.ART.890_-_Elaeagnus_umbellata_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_pencil_drawing_-_water_colour.jpeg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Kawahara Keiga",
+        "creditLine": "Kawahara Keiga · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 55
+      }
+    },
+    {
+      "id": "med_species_magnolia_grandiflora_2",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "广玉兰",
+      "caption": "广玉兰（Magnolia grandiflora）的照片",
+      "altText": "广玉兰 Magnolia grandiflora 照片",
+      "scientificName": "Magnolia grandiflora L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "magnolia_grandiflora",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_magnolia_grandiflora_2.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 136814,
+          "sha256": "65710cb47e48f381bfccf9321803e92b1367731f45b62da7fe9e0064af075476"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_-_flower_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Magnolia_grandiflora_-_flower_1.jpg/960px-Magnolia_grandiflora_-_flower_1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Ianaré Sévi",
+        "creditLine": "Ianaré Sévi · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 56
+      }
+    },
+    {
+      "id": "med_species_chimonanthus_praecox_l_link_2",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "腊梅",
+      "caption": "腊梅（Chimonanthus praecox (L.)Link.）的照片",
+      "altText": "腊梅 Chimonanthus praecox (L.)Link. 照片",
+      "scientificName": "Chimonanthus praecox (L.)Link.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "chimonanthus_praecox_l_link",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_chimonanthus_praecox_l_link_2.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 184319,
+          "sha256": "65712f44e3e0c8b5614421282bea1ded7235c6a63289f5f09a3aed2c8302258c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Chimonanthus_praecox_(18248235374).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chimonanthus_praecox_%2818248235374%29.jpg/960px-Chimonanthus_praecox_%2818248235374%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "creator": "M a n u e l from Valdemoro, Spain",
+        "creditLine": "M a n u e l from Valdemoro, Spain · Wikimedia Commons · CC BY 2.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 57
+      }
+    },
+    {
+      "id": "med_species_camellia_japonica",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "山茶",
+      "caption": "山茶（Camellia japonica）的照片",
+      "altText": "山茶 Camellia japonica 照片",
+      "scientificName": "Camellia japonica L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "camellia_japonica",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_camellia_japonica.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 364041,
+          "sha256": "32ff5640728e0d6d3647b7cacc20a044aa55324de60f2684d0aab6137120938d"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Camellia_japonica_%27Akashigata%27_in_Nymans_Garden.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Camellia_japonica_%27Akashigata%27_in_Nymans_Garden.jpg/960px-Camellia_japonica_%27Akashigata%27_in_Nymans_Garden.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Andy Li",
+        "creditLine": "Andy Li · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 58
+      }
+    },
+    {
+      "id": "med_species_zelkova_serrata_thunb_makino",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "榉树",
+      "caption": "榉树（Zelkova serrata (Thunb.)Makino）的照片",
+      "altText": "榉树 Zelkova serrata (Thunb.)Makino 照片",
+      "scientificName": "Zelkova serrata (Thunb.)Makino",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "zelkova_serrata_thunb_makino",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_zelkova_serrata_thunb_makino.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 99459,
+          "sha256": "eab3aa7bfd87db6ebde4503015d9d462d9e3a38535c8d60c0290776593b9a6cc"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_10zz.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zelkova_serrata_10zz.jpg/960px-Zelkova_serrata_10zz.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Photo by David J. Stang",
+        "creditLine": "Photo by David J. Stang · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 59
+      }
+    },
+    {
+      "id": "med_species_acer_buergerianum",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "三角枫",
+      "caption": "三角枫（Acer buergerianum）的照片",
+      "altText": "三角枫 Acer buergerianum 照片",
+      "scientificName": "Acer buergerianum Miq.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "acer_buergerianum",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_acer_buergerianum.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 334552,
+          "sha256": "61ba3016397c697276d622ca44dd26858d51e549698af2145321760b136d0542"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_Miq._(AM_AK294131-1).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Acer_buergerianum_Miq._%28AM_AK294131-1%29.jpg/960px-Acer_buergerianum_Miq._%28AM_AK294131-1%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Ewen Cameron",
+        "creditLine": "Ewen Cameron · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 60
+      }
+    },
+    {
+      "id": "med_species_dalbergia_hupeana_hance",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "黄檀",
+      "caption": "黄檀（Dalbergia hupeana Hance）的图版",
+      "altText": "黄檀 Dalbergia hupeana Hance 图版",
+      "scientificName": "Dalbergia hupeana Hance",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "dalbergia_hupeana_hance",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_dalbergia_hupeana_hance.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 401692,
+          "sha256": "5445fe4c3c7d96ed05f97fbcc62545b5d1615c3e7a3f3be8bd27487125d69030"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dalbergia_hupeana_-_Chengdu_Botanical_Garden_-_Chengdu,_China_-_DSC03370.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dalbergia_hupeana_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03370.JPG/960px-Dalbergia_hupeana_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03370.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 61
+      }
+    },
+    {
+      "id": "med_species_ilex_chinensis_sims",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "冬青",
+      "caption": "冬青（Ilex chinensis Sims）的照片",
+      "altText": "冬青 Ilex chinensis Sims 照片",
+      "scientificName": "Ilex chinensis Sims",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ilex_chinensis_sims",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ilex_chinensis_sims.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 643500,
+          "sha256": "b659c01c9d61d410b06898252b7d033ed078db7ef5eb079cf0ff4a1d3195df08"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ilex_chinensis1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ilex_chinensis1.jpg/960px-Ilex_chinensis1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "KENPEI",
+        "creditLine": "KENPEI · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 62
+      }
+    },
+    {
+      "id": "med_species_hovenia_acerba",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "枳椇",
+      "caption": "枳椇（Hovenia acerba）的图版",
+      "altText": "枳椇 Hovenia acerba 图版",
+      "scientificName": "Hovenia acerba Lindl.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "hovenia_acerba",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_hovenia_acerba.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 651686,
+          "sha256": "1eb73102bad56653e2da92f285624362fe578293d78c627030cfd1203d0112ea"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hovenia_acerba_-_Kunming_Botanical_Garden_-_DSC03265.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hovenia_acerba_-_Kunming_Botanical_Garden_-_DSC03265.JPG/960px-Hovenia_acerba_-_Kunming_Botanical_Garden_-_DSC03265.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 63
+      }
+    },
+    {
+      "id": "med_species_illicium_henryi_diels",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "红茴香",
+      "caption": "红茴香（Illicium henryi Diels）的图版",
+      "altText": "红茴香 Illicium henryi Diels 图版",
+      "scientificName": "Illicium henryi Diels",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "illicium_henryi_diels",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_illicium_henryi_diels.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 729429,
+          "sha256": "7cd805f29de80fdfe403e8f5667807547de976030787cdc394b47db8c1d5044b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Illicium_henryi_-_Chengdu_Botanical_Garden_-_Chengdu,_China_-_DSC03307.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Illicium_henryi_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03307.JPG/960px-Illicium_henryi_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03307.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 64
+      }
+    },
+    {
+      "id": "med_species_micheliafigo_lour_spreng",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "含笑",
+      "caption": "含笑（Micheliafigo (Lour.) Spreng.）的图版",
+      "altText": "含笑 Micheliafigo (Lour.) Spreng. 图版",
+      "scientificName": "Micheliafigo (Lour.) Spreng.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "micheliafigo_lour_spreng",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_micheliafigo_lour_spreng.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 177240,
+          "sha256": "7fd96f1c24acd199a7f571fe5308164e1e462c0ccd3ae199aa3f0d1f63e4d626"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Magnolia_figo_(Michelia_fuscata)_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC08916.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Magnolia_figo_%28Michelia_fuscata%29_-_Zilker_Botanical_Garden_-_Austin%2C_Texas_-_DSC08916.jpg/960px-Magnolia_figo_%28Michelia_fuscata%29_-_Zilker_Botanical_Garden_-_Austin%2C_Texas_-_DSC08916.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 65
+      }
+    },
+    {
+      "id": "med_species_phoebe_sheareri_hemsl_gamble",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "紫楠",
+      "caption": "紫楠（Phoebe sheareri(Hemsl.) Gamble）的照片",
+      "altText": "紫楠 Phoebe sheareri(Hemsl.) Gamble 照片",
+      "scientificName": "Phoebe sheareri(Hemsl.) Gamble",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "phoebe_sheareri_hemsl_gamble",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_phoebe_sheareri_hemsl_gamble.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 329548,
+          "sha256": "71254146165e7240cbc7d5ed4446b8a9ac9f00687e816907e7e9361941afd9d5"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Phoebe_formosana.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Phoebe_formosana.JPG/960px-Phoebe_formosana.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Phil41",
+        "creditLine": "Phil41 · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 66
+      }
+    },
+    {
+      "id": "med_species_camellia_sinensis_l_kuntze",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "茶",
+      "caption": "茶（Camellia sinensis (L.) Kuntze）的图版",
+      "altText": "茶 Camellia sinensis (L.) Kuntze 图版",
+      "scientificName": "Camellia sinensis (L.) Kuntze",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "camellia_sinensis_l_kuntze",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_camellia_sinensis_l_kuntze.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 339407,
+          "sha256": "50026c01e404520cf0a6d0c2f6854c3af965cb047e08daaa6d0810b65e7a6a20"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Camellia_sinensis_(2).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Camellia_sinensis_%282%29.jpg/960px-Camellia_sinensis_%282%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Prenn",
+        "creditLine": "Prenn · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 67
+      }
+    },
+    {
+      "id": "med_species_photinia_serratifolia_desf_kalkman",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "石楠",
+      "caption": "石楠（Photinia serratifolia (Desf.) Kalkman）的图版",
+      "altText": "石楠 Photinia serratifolia (Desf.) Kalkman 图版",
+      "scientificName": "Photinia serratifolia (Desf.) Kalkman",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "photinia_serratifolia_desf_kalkman",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_photinia_serratifolia_desf_kalkman.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 325497,
+          "sha256": "be0cb3cceb5ab9e9599ee72e27862d81a59915ec09778f5997feb95c81b3eca9"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Arboretum_et_fruticetum_britannicum,_or_(Plate_157)_(7064328055).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arboretum_et_fruticetum_britannicum%2C_or_%28Plate_157%29_%287064328055%29.jpg/960px-Arboretum_et_fruticetum_britannicum%2C_or_%28Plate_157%29_%287064328055%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Loudon, J. C.",
+        "creditLine": "Loudon, J. C. · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 68
+      }
+    },
+    {
+      "id": "med_species_quercusfabri_hance",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "白栎",
+      "caption": "白栎（Quercusfabri Hance）的图版",
+      "altText": "白栎 Quercusfabri Hance 图版",
+      "scientificName": "QuercusfabriHance",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "quercusfabri_hance",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_quercusfabri_hance.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 197915,
+          "sha256": "6fc2f364741263354a06d2d592dd9a141ec84c2fc97eb6e7ba7dd96557491861"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_Fabrei.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Quercus_Fabrei.jpg/960px-Quercus_Fabrei.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Rafael Medina",
+        "creditLine": "Rafael Medina · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 69
+      }
+    },
+    {
+      "id": "med_species_tilia_miqueliana",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "南京椴",
+      "caption": "南京椴（Tilia miqueliana）的照片",
+      "altText": "南京椴 Tilia miqueliana 照片",
+      "scientificName": "Tilia miqueliana Maxim.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "tilia_miqueliana",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_tilia_miqueliana.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 176017,
+          "sha256": "07e13b63ce298a6dd73ca7f0e6003fa9468ffb896ffd4d0d8671e8e705a04979"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Floraison_du_solstice.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Floraison_du_solstice.jpg/960px-Floraison_du_solstice.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Isasza",
+        "creditLine": "Isasza · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 70
+      }
+    },
+    {
+      "id": "med_species_quercusacutissima_carruth",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "麻栎",
+      "caption": "麻栎（Quercusacutissima Carruth.）的图版",
+      "altText": "麻栎 Quercusacutissima Carruth. 图版",
+      "scientificName": "QuercusacutissimaCarruth.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "quercusacutissima_carruth",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_quercusacutissima_carruth.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 30996,
+          "sha256": "45c1e7483fd274fc199ee02aefb33d4fa376bf55787f18690b1086b69c4662ff"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_acutissima.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Quercus_acutissima.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Unknown author",
+        "creditLine": "Unknown author · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 71
+      }
+    },
+    {
+      "id": "med_species_kalopanax_septemlobus_thunb_koidz",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "刺楸",
+      "caption": "刺楸（Kalopanax septemlobus(Thunb.)Koidz.）的图版",
+      "altText": "刺楸 Kalopanax septemlobus(Thunb.)Koidz. 图版",
+      "scientificName": "Kalopanax septemlobus(Thunb.)Koidz.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "kalopanax_septemlobus_thunb_koidz",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_kalopanax_septemlobus_thunb_koidz.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 395774,
+          "sha256": "4974da596bd6468348f4bba7a72a41a464d021de47ac41cfe63305fa3b8da723"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Flore_des_serres_v14_273a.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flore_des_serres_v14_273a.jpg/960px-Flore_des_serres_v14_273a.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Louis van Houtte",
+        "creditLine": "Louis van Houtte · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 72
+      }
+    },
+    {
+      "id": "med_species_pseudocydonia_sinensis_thouin_schneid",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "木瓜",
+      "caption": "木瓜（Pseudocydonia sinensis (Thouin) Schneid）的照片",
+      "altText": "木瓜 Pseudocydonia sinensis (Thouin) Schneid 照片",
+      "scientificName": "Pseudocydonia sinensis (Thouin) C. K. Schneid",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pseudocydonia_sinensis_thouin_schneid",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pseudocydonia_sinensis_thouin_schneid.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 200874,
+          "sha256": "39583c69bfe48523fab26234d76389d712c8199ee816bd4a040090587c4128e7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pseudocydonia.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pseudocydonia.jpg/960px-Pseudocydonia.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Tusbra",
+        "creditLine": "Tusbra · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 73
+      }
+    },
+    {
+      "id": "med_species_rosa_banksiae_aiton",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "木香花",
+      "caption": "木香花（Rosa banksiae Aiton）的图版",
+      "altText": "木香花 Rosa banksiae Aiton 图版",
+      "scientificName": "Rosa banksiae Aiton",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "rosa_banksiae_aiton",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_rosa_banksiae_aiton.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 877230,
+          "sha256": "e3441da5352f94b3b454223192b2db6aef259d5ea3d4847f646e94e23735e9b6"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rosa_banksiae_var._normalis_-_Quarryhill_Botanical_Garden_-_DSC03669.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rosa_banksiae_var._normalis_-_Quarryhill_Botanical_Garden_-_DSC03669.JPG/960px-Rosa_banksiae_var._normalis_-_Quarryhill_Botanical_Garden_-_DSC03669.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 74
+      }
+    },
+    {
+      "id": "med_species_camellia_uraku_mak_kitamura",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "单体红山茶",
+      "caption": "单体红山茶（Camellia uraku (Mak.) Kitamura）的照片",
+      "altText": "单体红山茶 Camellia uraku (Mak.) Kitamura 照片",
+      "scientificName": "Camellia uraku (Mak.) Kitamura",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "camellia_uraku_mak_kitamura",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_camellia_uraku_mak_kitamura.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 114567,
+          "sha256": "ac57fc34e39b9db7a8ae7b92c12ae6e4b469dbcbf3362c45c8da888327b64a13"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_(actm.)_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg/960px-Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Agnes Monkelbaan",
+        "creditLine": "Agnes Monkelbaan · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 75
+      }
+    },
+    {
+      "id": "med_species_ulmus_pumila_2",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "榆",
+      "caption": "榆（Ulmus pumila）的照片",
+      "altText": "榆 Ulmus pumila 照片",
+      "scientificName": "Ulmus pumila L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ulmus_pumila",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ulmus_pumila_2.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 65890,
+          "sha256": "ce94f60a8bce3c37f09af67de0317a9c68013e29d2988408c11073361848ca39"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Siberian_Elm_(Ulmus_pumila)_-_Guelph,_Ontario_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Siberian_Elm_%28Ulmus_pumila%29_-_Guelph%2C_Ontario_01.jpg/960px-Siberian_Elm_%28Ulmus_pumila%29_-_Guelph%2C_Ontario_01.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Ryan Hodnett",
+        "creditLine": "Ryan Hodnett · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 76
+      }
+    },
+    {
+      "id": "med_species_ziziphus_jujuba_l",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "枣",
+      "caption": "枣（Ziziphus jujuba (L.)）的图版",
+      "altText": "枣 Ziziphus jujuba (L.) 图版",
+      "scientificName": "Ziziphus jujuba (L.) Lam.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ziziphus_jujuba_l",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ziziphus_jujuba_l.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 66997,
+          "sha256": "7e8750586bf6cb880df16d1cdf04a4590d778ed11a8447088975c682e311c09c"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ziziphus_jujuba_line_drawing.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ziziphus_jujuba_line_drawing.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "L.H. @ USDA-NRCS PLANTS Database",
+        "creditLine": "L.H. @ USDA-NRCS PLANTS Database · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 77
+      }
+    },
+    {
+      "id": "med_species_catalpa_ovata_don",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "梓树",
+      "caption": "梓树（Catalpa ovata Don）的图版",
+      "altText": "梓树 Catalpa ovata Don 图版",
+      "scientificName": "Catalpa ovata G. Don",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "catalpa_ovata_don",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_catalpa_ovata_don.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 158129,
+          "sha256": "9183178f25782bc217f4e33b213e9901a9f42eb4a351c283dff61ad38fb3e2f2"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Catalpa_kaempferi.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Catalpa_kaempferi.jpg/960px-Catalpa_kaempferi.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "User:Pipi69e",
+        "creditLine": "User:Pipi69e · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 78
+      }
+    },
+    {
+      "id": "med_species_distylium_racemosum_siebold",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "蚊母树",
+      "caption": "蚊母树（Distylium racemosum Siebold &）的图版",
+      "altText": "蚊母树 Distylium racemosum Siebold & 图版",
+      "scientificName": "Distylium racemosum Siebold & Zucc.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "distylium_racemosum_siebold",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_distylium_racemosum_siebold.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 169612,
+          "sha256": "5422a74b8f1808b443d7d35f42403da140af909e5836c26d299dd7ae1bf46780"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Distylium_racemosum1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Distylium_racemosum1.jpg/960px-Distylium_racemosum1.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "KENPEI",
+        "creditLine": "KENPEI · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 79
+      }
+    },
+    {
+      "id": "med_species_yulania_soulangeana_soul_bod_fu",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "二乔玉兰",
+      "caption": "二乔玉兰（Yulania × soulangeana (Soul.-Bod.) Fu）的照片",
+      "altText": "二乔玉兰 Yulania × soulangeana (Soul.-Bod.) Fu 照片",
+      "scientificName": "Yulania × soulangeana (Soul.-Bod.) D. L. Fu",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "yulania_soulangeana_soul_bod_fu",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_yulania_soulangeana_soul_bod_fu.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 141306,
+          "sha256": "a81505507b916e055b8e0a7dab5a384653ca735ca7808cda8d8189969ce09e31"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Yulania_%C3%97_soulangeana--IMG_20180820_182134.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Yulania_%C3%97_soulangeana--IMG_20180820_182134.jpg/960px-Yulania_%C3%97_soulangeana--IMG_20180820_182134.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Sun Jiao (Interaccoonale)",
+        "creditLine": "Sun Jiao (Interaccoonale) · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 80
+      }
+    },
+    {
+      "id": "med_species_taxodium_distichum_l",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "落羽杉",
+      "caption": "落羽杉（Taxodium distichum (L.)）的图版",
+      "altText": "落羽杉 Taxodium distichum (L.) 图版",
+      "scientificName": "Taxodium distichum (L.) Rich.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "taxodium_distichum_l",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_taxodium_distichum_l.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 687547,
+          "sha256": "184ce0e4d197f064d536399a91e7463cbfbb092770139c4b2e471fb260921ae7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Moerascypres_Taxodium_distichum_L.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Moerascypres_Taxodium_distichum_L.jpg/960px-Moerascypres_Taxodium_distichum_L.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creator": "Mirmir19",
+        "creditLine": "Mirmir19 · Wikimedia Commons · CC BY-SA 3.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 81
+      }
+    },
+    {
+      "id": "med_species_buxus_sinica_rehder_wilson_cheng_2",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "瓜子黄杨",
+      "caption": "瓜子黄杨（Buxus sinica (Rehder & Wilson) Cheng）的图版",
+      "altText": "瓜子黄杨 Buxus sinica (Rehder & Wilson) Cheng 图版",
+      "scientificName": "Buxus sinica (Rehder & E. H. Wilson) M. Cheng",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "buxus_sinica_rehder_wilson_cheng",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_buxus_sinica_rehder_wilson_cheng_2.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 141205,
+          "sha256": "fd0e94f4bb60d6cf82fb04faf868418947334bf4dc4b3ac8ef93d82677a743a4"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Buxus_sinica.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Buxus_sinica.jpg/960px-Buxus_sinica.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "PiPi",
+        "creditLine": "PiPi · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 82
+      }
+    },
+    {
+      "id": "med_species_phoebe_chekiangensis_shang",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "浙江楠",
+      "caption": "浙江楠（Phoebe chekiangensis Shang）的照片",
+      "altText": "浙江楠 Phoebe chekiangensis Shang 照片",
+      "scientificName": "Phoebe chekiangensis C. B. Shang",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "phoebe_chekiangensis_shang",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_phoebe_chekiangensis_shang.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 329548,
+          "sha256": "71254146165e7240cbc7d5ed4446b8a9ac9f00687e816907e7e9361941afd9d5"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Phoebe_formosana.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Phoebe_formosana.JPG/960px-Phoebe_formosana.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Phil41",
+        "creditLine": "Phil41 · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 83
+      }
+    },
+    {
+      "id": "med_species_ficus_pumila",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "薜荔",
+      "caption": "薜荔（Ficus pumila）的图版",
+      "altText": "薜荔 Ficus pumila 图版",
+      "scientificName": "Ficus pumila L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ficus_pumila",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ficus_pumila.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 202325,
+          "sha256": "52ade1294894a42ff81be77ee7e0ec9aa50ecd682273c4900c1322681a8a2adb"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_pumila_28zz.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ficus_pumila_28zz.jpg/960px-Ficus_pumila_28zz.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Photo by David J. Stang",
+        "creditLine": "Photo by David J. Stang · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 84
+      }
+    },
+    {
+      "id": "med_species_bischofia_polycarpa_l_v_airy_shaw",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "重阳木",
+      "caption": "重阳木（Bischofia polycarpa Lév.) Airy Shaw）的照片",
+      "altText": "重阳木 Bischofia polycarpa Lév.) Airy Shaw 照片",
+      "scientificName": "Bischofia polycarpa (H. Lév.) Airy Shaw",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "bischofia_polycarpa_l_v_airy_shaw",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_bischofia_polycarpa_l_v_airy_shaw.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 258949,
+          "sha256": "724a73fe0911337f503bac4bb600dc173df81524112615bc5b5cde7c9bebd950"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bischofia_polycarpa-IMG_20171123_171548.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofia_polycarpa-IMG_20171123_171548.jpg/960px-Bischofia_polycarpa-IMG_20171123_171548.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": "Sun Jiao (Interaccoonale)",
+        "creditLine": "Sun Jiao (Interaccoonale) · Wikimedia Commons · CC BY 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 85
+      }
+    },
+    {
+      "id": "med_species_robinia_pseudoacacia",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "刺槐",
+      "caption": "刺槐（Robinia pseudoacacia）的图版",
+      "altText": "刺槐 Robinia pseudoacacia 图版",
+      "scientificName": "Robinia pseudoacacia L.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "robinia_pseudoacacia",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_robinia_pseudoacacia.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 127474,
+          "sha256": "f9c759ab2a4a368a915d016d159c0bdf61071a2943c764375fb5599593c3ecff"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia20170523_7772.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Robinia_pseudoacacia20170523_7772.jpg/960px-Robinia_pseudoacacia20170523_7772.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Bff",
+        "creditLine": "Bff · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 86
+      }
+    },
+    {
+      "id": "med_species_ehretia_acuminata",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "厚壳树",
+      "caption": "厚壳树（Ehretia acuminata）的图版",
+      "altText": "厚壳树 Ehretia acuminata 图版",
+      "scientificName": "Ehretia acuminata R. Br.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ehretia_acuminata",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ehretia_acuminata.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 214823,
+          "sha256": "81f8d42ab9ee74bce29f5e06b35e69cfe8c1de737de032ed24d736d2ce9daaf2"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ehretia_acuminata_Blanco1.70.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ehretia_acuminata_Blanco1.70.jpg/960px-Ehretia_acuminata_Blanco1.70.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Francisco Manuel Blanco (O.S.A.)",
+        "creditLine": "Francisco Manuel Blanco (O.S.A.) · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 87
+      }
+    },
+    {
+      "id": "med_species_ailanthus_altissima_mill_swingle",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "臭椿",
+      "caption": "臭椿（Ailanthus altissima (Mill.) Swingle）的图版",
+      "altText": "臭椿 Ailanthus altissima (Mill.) Swingle 图版",
+      "scientificName": "Ailanthus altissima (Mill.) Swingle",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "ailanthus_altissima_mill_swingle",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_ailanthus_altissima_mill_swingle.png",
+          "mimeType": "image/png",
+          "bytes": 384130,
+          "sha256": "cb02bb6f9c368d386c6913fcb1cf42273ed157761d42d2d381f7e0fcee6bfe8b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ailanthus_altissima_drawing.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ailanthus_altissima_drawing.png/960px-Ailanthus_altissima_drawing.png",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Britton, N.L., and A. Brown. 1913. Illustrated flora of the northern states and Canada. Vol. 2: 446.",
+        "creditLine": "Britton, N.L., and A. Brown. 1913. Illustrated flora of the northern states and Canada. Vol. 2: 446. · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 88
+      }
+    },
+    {
+      "id": "med_species_elaeagnus_pungens",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "胡颓子",
+      "caption": "胡颓子（Elaeagnus pungens）的照片",
+      "altText": "胡颓子 Elaeagnus pungens 照片",
+      "scientificName": "Elaeagnus pungens Thunb.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "elaeagnus_pungens",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_elaeagnus_pungens.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 219837,
+          "sha256": "1c2b93e3c5ff7fc98dbed5ec268f2a047567e11faea84b240867c4a1c3d713a7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Elaeagnus_pungens_0016038.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Elaeagnus_pungens_0016038.jpg/960px-Elaeagnus_pungens_0016038.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "creator": "James H. Miller &amp; Ted Bodner, Southern Weed Science Society, Bugwood.org",
+        "creditLine": "James H. Miller &amp; Ted Bodner, Southern Weed Science Society, Bugwood.org · Wikimedia Commons · CC BY 3.0 us",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 89
+      }
+    },
+    {
+      "id": "med_species_lagerstroemia_indica_alba_nichols_rehd",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "银薇",
+      "caption": "银薇（Lagerstroemia indica alba (Nichols.) Rehd）的图版",
+      "altText": "银薇 Lagerstroemia indica alba (Nichols.) Rehd 图版",
+      "scientificName": "Lagerstroemia indica L. f. alba (Nichols.) Rehd",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "lagerstroemia_indica_alba_nichols_rehd",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_lagerstroemia_indica_alba_nichols_rehd.png",
+          "mimeType": "image/png",
+          "bytes": 618249,
+          "sha256": "3ffbf850b9887c10f3d2569e7e5952232a4bc3dcd53a994a66efb800f1e6b9a7"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lagerstroemia_indica_Blanco1.207.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagerstroemia_indica_Blanco1.207.png/960px-Lagerstroemia_indica_Blanco1.207.png",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Francisco Manuel Blanco (O.S.A.)",
+        "creditLine": "Francisco Manuel Blanco (O.S.A.) · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 90
+      }
+    },
+    {
+      "id": "med_species_rosa_banksiae_lutescens_voss",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "单瓣黄木香",
+      "caption": "单瓣黄木香（Rosa banksiae lutescens Voss）的照片",
+      "altText": "单瓣黄木香 Rosa banksiae lutescens Voss 照片",
+      "scientificName": "Rosa banksiae f. lutescens Voss",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "rosa_banksiae_lutescens_voss",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_rosa_banksiae_lutescens_voss.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 111496,
+          "sha256": "9e4396dbb292e882a3aa48718095179c3a82b6c6b86fe06d09e03fe9efa7317a"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Comestible_rose_in_the_Laquenexy_orchard_garden,_Moselle,_France_(01).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg/960px-Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "M0tty",
+        "creditLine": "M0tty · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 91
+      }
+    },
+    {
+      "id": "med_species_maclura_tricuspidata_carri_re",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "柘树",
+      "caption": "柘树（Maclura tricuspidata Carrière）的图版",
+      "altText": "柘树 Maclura tricuspidata Carrière 图版",
+      "scientificName": "Maclura tricuspidata Carrière",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "maclura_tricuspidata_carri_re",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_maclura_tricuspidata_carri_re.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 419341,
+          "sha256": "89d2eb7efe665c93d027fa5302c7335f157da124c021a716c342f99289ee937d"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Maclura_tricuspidata_syn._Cudrania_tricuspidata_2011-09-11_02.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Maclura_tricuspidata_syn._Cudrania_tricuspidata_2011-09-11_02.jpg/960px-Maclura_tricuspidata_syn._Cudrania_tricuspidata_2011-09-11_02.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "Agnieszka Kwiecień, Nova",
+        "creditLine": "Agnieszka Kwiecień, Nova · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 92
+      }
+    },
+    {
+      "id": "med_species_lagerstroemia_subcostata_koehne",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "南紫薇",
+      "caption": "南紫薇（Lagerstroemia subcostata Koehne）的图版",
+      "altText": "南紫薇 Lagerstroemia subcostata Koehne 图版",
+      "scientificName": "Lagerstroemia subcostata Koehne",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "lagerstroemia_subcostata_koehne",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_lagerstroemia_subcostata_koehne.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 348673,
+          "sha256": "9fa10db33fc76ae33837e3d775b9865697f677df47050f49a5f43d1f0cb0fbc4"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lagerstroemia_subcostata_in_Koishikawa_gardens.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lagerstroemia_subcostata_in_Koishikawa_gardens.jpg/960px-Lagerstroemia_subcostata_in_Koishikawa_gardens.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "PDM-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · Public domain",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 93
+      }
+    },
+    {
+      "id": "med_species_cupressus_funebris",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "柏木",
+      "caption": "柏木（Cupressus funebris）的图版",
+      "altText": "柏木 Cupressus funebris 图版",
+      "scientificName": "Cupressus funebris Endl.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "cupressus_funebris",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_cupressus_funebris.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 655181,
+          "sha256": "9925743523fc84c83f0e625bbe3ed4f7798c9db5ac1fa8168758be728cc96f7b"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cupressus_funebris_-_Quarryhill_Botanical_Garden_-_DSC03692.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cupressus_funebris_-_Quarryhill_Botanical_Garden_-_DSC03692.JPG/960px-Cupressus_funebris_-_Quarryhill_Botanical_Garden_-_DSC03692.JPG",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Daderot",
+        "creditLine": "Daderot · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 94
+      }
+    },
+    {
+      "id": "med_species_diospyros_kaki_thunb",
+      "kind": "illustration",
+      "scope": "species-reference",
+      "title": "柿子树",
+      "caption": "柿子树（Diospyros kaki Thunb）的图版",
+      "altText": "柿子树 Diospyros kaki Thunb 图版",
+      "scientificName": "Diospyros kaki Thunb",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "diospyros_kaki_thunb",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_diospyros_kaki_thunb.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 43796,
+          "sha256": "8f66465124f6b9d7cf51f057ecd2b2c008574214fbb266f24a5d6fecaad48d5f"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:-_I-17_Persimmon_fruit_(5096047047).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/-_I-17_Persimmon_fruit_%285096047047%29.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC-BY-2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "creator": "vastateparksstaff",
+        "creditLine": "vastateparksstaff · Wikimedia Commons · CC BY 2.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 95
+      }
+    },
+    {
+      "id": "med_species_pinus_thunbergii",
+      "kind": "photograph",
+      "scope": "species-reference",
+      "title": "黑松",
+      "caption": "黑松（Pinus thunbergii）的照片",
+      "altText": "黑松 Pinus thunbergii 照片",
+      "scientificName": "Pinus thunbergii Parl.",
+      "links": [
+        {
+          "entityType": "species",
+          "entityId": "pinus_thunbergii",
+          "role": "overview",
+          "certainty": "confirmed"
+        }
+      ],
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/species/med_species_pinus_thunbergii.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 279696,
+          "sha256": "ff93252861de947191867cc35bc16cd03830754e617722399983e3fbc9dd4fbe"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ozaki_Kumano-jinja_Pinus_thunbergii_2024-10-24.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ozaki_Kumano-jinja_Pinus_thunbergii_2024-10-24.jpg/960px-Ozaki_Kumano-jinja_Pinus_thunbergii_2024-10-24.jpg",
+        "retrievedAt": "2026-08-16"
+      },
+      "rights": {
+        "code": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creator": "Asanagi",
+        "creditLine": "Asanagi · Wikimedia Commons · CC0",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "derivatives": "allowed",
+        "verifiedAt": "2026-08-16"
+      },
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "sortOrder": 96
+      }
+    }
+  ]
+}

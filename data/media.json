@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0.0",
+  "assets": [
+    {
+      "id": "med_wenmiao_panchi_2021",
+      "kind": "photograph",
+      "scope": "site-context",
+      "title": "苏州文庙泮池",
+      "caption": "泮池与周围建筑，作为文庙古树生长环境的场所背景。",
+      "altText": "2021年拍摄的苏州文庙泮池与周围建筑",
+      "links": [
+        {
+          "entityType": "place",
+          "entityId": "place_suzhou_wenmiao",
+          "role": "context",
+          "certainty": "confirmed"
+        }
+      ],
+      "capture": {
+        "takenAt": "2021",
+        "datePrecision": "year",
+        "season": "unknown",
+        "photographer": "ScareCriterion12",
+        "direction": "unknown",
+        "locationPrecision": "site-only"
+      },
+      "files": [
+        {
+          "variant": "display",
+          "path": "/images/wenmiao/panchi.jpg",
+          "mimeType": "image/jpeg"
+        }
+      ],
+      "source": {
+        "provider": "wikimedia-commons",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E8%8B%8F%E5%B7%9E%E6%96%87%E5%BA%99%E6%B3%AE%E6%B1%A02021.jpg",
+        "retrievedAt": "2026-08-15"
+      },
+      "rights": {
+        "code": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creator": "ScareCriterion12",
+        "creditLine": "ScareCriterion12 · Wikimedia Commons · CC BY-SA 4.0",
+        "attributionRequired": true,
+        "commercialUse": true,
+        "derivatives": "share-alike",
+        "verifiedAt": "2026-08-15"
+      },
+      "edits": ["resized"],
+      "people": {
+        "identifiable": false,
+        "consentStatus": "not-needed"
+      },
+      "workflow": {
+        "status": "published",
+        "featured": false,
+        "sortOrder": 10,
+        "reviewedAt": "2026-08-15"
+      }
+    }
+  ]
+}

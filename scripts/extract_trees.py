@@ -99,6 +99,12 @@ SOURCES = {
     },
 }
 
+# Corrections verified against authoritative botanical databases. The official
+# tables occasionally collapse spaces when Word cells are extracted.
+SCIENTIFIC_NAME_CORRECTIONS = {
+    "牛鼻栓": "Fortunearia sinensis Rehder & E.H.Wilson",
+}
+
 
 def clean(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
@@ -190,7 +196,7 @@ def main() -> None:
                         "catalog": region,
                         "number": cells[0],
                         "species": cells[1],
-                        "scientificName": cells[2],
+                        "scientificName": SCIENTIFIC_NAME_CORRECTIONS.get(cells[1], cells[2]),
                         "age": tree_age,
                         "heightM": number(cells[4]),
                         "girthCm": number(cells[5]),

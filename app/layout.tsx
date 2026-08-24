@@ -7,8 +7,8 @@ export async function generateMetadata(): Promise<Metadata> {
   const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "localhost:3000";
   const protocol = requestHeaders.get("x-forwarded-proto") ?? (host.startsWith("localhost") ? "http" : "https");
   const origin = `${protocol}://${host}`;
-  const title = "苏州古树志｜苏州市古树名木地图";
-  const description = "整理苏州市园林和绿化管理局官方名录，在地图中浏览 2,307 株古树名木。";
+  const title = "以树为碑｜苏州古树地图";
+  const description = "从苏州官方古树名录出发，选择一株树，进入它独有的生命档案。";
   const imageUrl = `${origin}/og.png`;
 
   return {
@@ -18,7 +18,7 @@ export async function generateMetadata(): Promise<Metadata> {
       title,
       description,
       type: "website",
-      images: [{ url: imageUrl, width: 1536, height: 1024, alt: "苏州古树志" }],
+      images: [{ url: imageUrl, width: 1536, height: 1024, alt: "以树为碑｜苏州古树地图" }],
     },
     twitter: {
       card: "summary_large_image",

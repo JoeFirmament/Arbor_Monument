@@ -1,0 +1,268 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://yishuweibei.example/schemas/media.schema.json",
+  "title": "以树为碑媒体目录",
+  "type": "object",
+  "required": ["schemaVersion", "assets"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": "1.0.0"
+    },
+    "assets": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/asset" }
+    }
+  },
+  "$defs": {
+    "asset": {
+      "type": "object",
+      "required": [
+        "id",
+        "kind",
+        "scope",
+        "title",
+        "altText",
+        "links",
+        "files",
+        "source",
+        "rights",
+        "workflow"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^med_[a-z0-9][a-z0-9_-]*$"
+        },
+        "kind": {
+          "enum": [
+            "photograph",
+            "illustration",
+            "herbarium",
+            "map",
+            "portrait",
+            "audio",
+            "video",
+            "document"
+          ]
+        },
+        "scope": {
+          "enum": [
+            "individual-tree",
+            "species-reference",
+            "site-context",
+            "person",
+            "story"
+          ]
+        },
+        "title": { "type": "string", "minLength": 1 },
+        "caption": { "type": "string" },
+        "altText": { "type": "string", "minLength": 1 },
+        "description": { "type": "string" },
+        "scientificName": { "type": "string" },
+        "links": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/link" }
+        },
+        "capture": { "$ref": "#/$defs/capture" },
+        "files": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/file" }
+        },
+        "source": { "$ref": "#/$defs/source" },
+        "rights": { "$ref": "#/$defs/rights" },
+        "edits": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "none",
+              "cropped",
+              "resized",
+              "color-adjusted",
+              "background-removed",
+              "annotated",
+              "composited",
+              "audio-cleaned",
+              "transcoded"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "people": { "$ref": "#/$defs/people" },
+        "workflow": { "$ref": "#/$defs/workflow" }
+      }
+    },
+    "link": {
+      "type": "object",
+      "required": ["entityType", "entityId", "role", "certainty"],
+      "additionalProperties": false,
+      "properties": {
+        "entityType": {
+          "enum": ["tree", "species", "place", "person", "story"]
+        },
+        "entityId": { "type": "string", "minLength": 1 },
+        "role": {
+          "enum": [
+            "hero",
+            "overview",
+            "canopy",
+            "trunk",
+            "bark",
+            "root",
+            "leaf",
+            "flower",
+            "fruit",
+            "damage",
+            "season",
+            "context",
+            "historical",
+            "portrait",
+            "map",
+            "oral-history"
+          ]
+        },
+        "certainty": {
+          "enum": ["confirmed", "probable", "contextual"]
+        }
+      }
+    },
+    "capture": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "takenAt": { "type": "string" },
+        "datePrecision": {
+          "enum": ["exact", "day", "month", "year", "estimated", "unknown"]
+        },
+        "season": {
+          "enum": ["spring", "summer", "autumn", "winter", "unknown"]
+        },
+        "photographer": { "type": "string" },
+        "direction": {
+          "enum": ["north", "northeast", "east", "southeast", "south", "southwest", "west", "northwest", "unknown"]
+        },
+        "latitude": { "type": "number", "minimum": -90, "maximum": 90 },
+        "longitude": { "type": "number", "minimum": -180, "maximum": 180 },
+        "locationPrecision": {
+          "enum": ["exact", "approximate", "site-only", "withheld", "unknown"]
+        },
+        "note": { "type": "string" }
+      }
+    },
+    "file": {
+      "type": "object",
+      "required": ["variant", "path", "mimeType"],
+      "additionalProperties": false,
+      "properties": {
+        "variant": {
+          "enum": ["original", "display", "thumbnail", "poster", "transcript"]
+        },
+        "path": { "type": "string", "minLength": 1 },
+        "mimeType": { "type": "string", "minLength": 1 },
+        "width": { "type": "integer", "minimum": 1 },
+        "height": { "type": "integer", "minimum": 1 },
+        "bytes": { "type": "integer", "minimum": 0 },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["provider"],
+      "additionalProperties": false,
+      "properties": {
+        "provider": {
+          "enum": [
+            "self",
+            "wikimedia-commons",
+            "openverse",
+            "inaturalist",
+            "smithsonian",
+            "bhl",
+            "nypl",
+            "flickr",
+            "gbif",
+            "institution",
+            "other"
+          ]
+        },
+        "pageUrl": { "type": "string", "format": "uri" },
+        "originalUrl": { "type": "string", "format": "uri" },
+        "accessionNumber": { "type": "string" },
+        "retrievedAt": { "type": "string", "format": "date" }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "code",
+        "creator",
+        "creditLine",
+        "attributionRequired",
+        "commercialUse",
+        "derivatives",
+        "verifiedAt"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "enum": [
+            "CC0-1.0",
+            "PDM-1.0",
+            "CC-BY-2.0",
+            "CC-BY-2.5",
+            "CC-BY-3.0",
+            "CC-BY-4.0",
+            "CC-BY-SA-2.0",
+            "CC-BY-SA-3.0",
+            "CC-BY-SA-4.0",
+            "COPYRIGHT-HOLDER",
+            "PERMISSION",
+            "UNKNOWN"
+          ]
+        },
+        "licenseUrl": { "type": "string", "format": "uri" },
+        "creator": { "type": "string" },
+        "copyrightHolder": { "type": "string" },
+        "creditLine": { "type": "string" },
+        "attributionRequired": { "type": "boolean" },
+        "commercialUse": { "type": "boolean" },
+        "derivatives": { "enum": ["allowed", "share-alike", "not-allowed", "unknown"] },
+        "permissionDocument": { "type": "string" },
+        "verifiedAt": { "type": "string", "format": "date" },
+        "notes": { "type": "string" }
+      }
+    },
+    "people": {
+      "type": "object",
+      "required": ["identifiable", "consentStatus"],
+      "additionalProperties": false,
+      "properties": {
+        "identifiable": { "type": "boolean" },
+        "consentStatus": {
+          "enum": ["not-needed", "obtained", "restricted", "unknown"]
+        },
+        "consentDocument": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    },
+    "workflow": {
+      "type": "object",
+      "required": ["status"],
+      "additionalProperties": false,
+      "properties": {
+        "status": { "enum": ["draft", "reviewed", "published", "rejected", "archived"] },
+        "featured": { "type": "boolean" },
+        "sortOrder": { "type": "integer" },
+        "reviewedBy": { "type": "string" },
+        "reviewedAt": { "type": "string", "format": "date" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

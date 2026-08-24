@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import TreeExplorer from "./TreeExplorer";
 
 export const metadata: Metadata = {
-  title: "苏州古树志｜苏州市古树名木地图",
-  description: "整理苏州市园林和绿化管理局官方名录，在地图中浏览 2,307 株古树名木。",
+  title: "以树为碑｜苏州古树地图",
+  description: "从苏州官方古树名录出发，选择一株树，进入它独有的生命档案。",
 };
 
 export default function Home() {

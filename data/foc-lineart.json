@@ -1,0 +1,177 @@
+{
+  "银杏": {
+    "scientificName": "Ginkgo biloba L.",
+    "focTaxonId": "200005235",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005235",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=1203&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/141/14100001_001.gif"
+  },
+  "朴树": {
+    "scientificName": "Celtis sinensis Pers.",
+    "focTaxonId": "200006313",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006313",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=50155&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-025.gif"
+  },
+  "圆柏": {
+    "scientificName": "Juniperus chinensis Roxb.",
+    "focTaxonId": "210000896",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000896",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=4542&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/094/09400124_001.gif"
+  },
+  "罗汉松": {
+    "scientificName": "Podocarpus macrophyllus (Thunb.) Sweet",
+    "focTaxonId": "126161",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=126161",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=12849&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraData/201/TaxonImage/Podocarpus_sp.jpg"
+  },
+  "枫杨": {
+    "scientificName": "Pterocarya stenoptera C. DC.",
+    "focTaxonId": "200006121",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006121",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=2174&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/167/16700204_001.gif"
+  },
+  "木樨": {
+    "scientificName": "Osmanthus fragrans Lour.",
+    "focTaxonId": "210001392",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=4748&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/230/23000499_001.gif"
+  },
+  "榆树": {
+    "scientificName": "Ulmus pumila L.",
+    "focTaxonId": "200006332",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006332",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-008.gif"
+  },
+  "鸡爪槭": {
+    "scientificName": "Acer palmatum Thunb.",
+    "focTaxonId": "200013064",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013064",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=110249&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc11/FOCI%2011_Page_554.jpg"
+  },
+  "紫薇": {
+    "scientificName": "Lagerstroemia indica L.",
+    "focTaxonId": "200014643",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014643",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=94375&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc13/foci-13-295.jpg"
+  },
+  "瓶兰花": {
+    "scientificName": "Diospyros armata Hemsl.",
+    "focTaxonId": "200017562",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017562",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=2618&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/115/11500527_001.gif"
+  },
+  "枸骨": {
+    "scientificName": "Ilex cornuta Lindl. & Paxton",
+    "focTaxonId": "116366",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=116366",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=12835&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraData/201/TaxonImage/Ilex_myricoides.jpg"
+  },
+  "榔榆": {
+    "scientificName": "Ulmus parvifolia Jacq.",
+    "focTaxonId": "200006330",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006330",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=51035&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-004.gif"
+  },
+  "柿": {
+    "scientificName": "Diospyros kaki Thunb.",
+    "focTaxonId": "200017585",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017585",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=2635&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/115/11500521_001.gif"
+  },
+  "牡丹": {
+    "scientificName": "Paeonia × suffruticosa Andrews",
+    "focTaxonId": "123659",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=123659",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=44968&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/271/27100422_002.jpg"
+  },
+  "马尾松": {
+    "scientificName": "Pinus massoniana Lamb.",
+    "focTaxonId": "200005343",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=1271&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/249/24900389_001.gif"
+  },
+  "南天竹": {
+    "scientificName": "Nandina domestica Thunb.",
+    "focTaxonId": "200008408",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008408",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=119345&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foci19/foci19-608.jpg"
+  },
+  "梅": {
+    "scientificName": "Prunus mume Siebold & Zucc.",
+    "focTaxonId": "126865",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=126865",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=12851&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraData/201/TaxonImage/Prunus_opaca.jpg"
+  },
+  "皂荚": {
+    "scientificName": "Gleditsia sinensis Lam.",
+    "focTaxonId": "200012140",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012140",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=116243&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-047.jpg"
+  },
+  "冬青": {
+    "scientificName": "Ilex chinensis Sims",
+    "focTaxonId": "116366",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=116366",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=12835&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraData/201/TaxonImage/Ilex_myricoides.jpg"
+  },
+  "南京椴": {
+    "scientificName": "Tilia miqueliana Maxim.",
+    "focTaxonId": "200013640",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013640",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=93488&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc12/foci-12-211.jpg"
+  },
+  "榆": {
+    "scientificName": "Ulmus pumila L.",
+    "focTaxonId": "200006332",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006332",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=50124&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-008.gif"
+  },
+  "薜荔": {
+    "scientificName": "Ficus pumila L.",
+    "focTaxonId": "233500650",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=233500650",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=50278&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc05/foci05-078.gif"
+  },
+  "刺槐": {
+    "scientificName": "Robinia pseudoacacia L.",
+    "focTaxonId": "200012304",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012304",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=116333&flora_id=2",
+    "imageUrl": "https://images.mobot.org/efloras/FloraIllustration/foc10/foci-10-344.jpg"
+  },
+  "柏木": {
+    "scientificName": "Cupressus funebris Endl.",
+    "focTaxonId": "200005416",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005416",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=1316&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/094/09400001_001.gif"
+  },
+  "黑松": {
+    "scientificName": "Pinus thunbergii Parl.",
+    "focTaxonId": "200005368",
+    "taxonUrl": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005368",
+    "illustrationUrl": "http://www.efloras.org/object_page.aspx?object_id=1280&flora_id=2",
+    "imageUrl": "https://images.mobot.org/mrsid/249/24900046_001.gif"
+  }
+}
