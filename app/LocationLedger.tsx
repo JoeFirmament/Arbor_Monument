@@ -279,7 +279,7 @@ export default function LocationLedger({
       });
       const body = await response.json() as { confirmed?: boolean; error?: string };
       if (!response.ok) throw new Error(body.error ?? "确认没有保存成功。");
-      setMessage(body.confirmed ? "已记录你的确认。" : "已取消你的确认。彼此独立的确认更有价值。 ");
+      setMessage(body.confirmed ? "已记录你的确认。" : "已取消你的确认。彼此独立的确认更有价值。");
       await loadProposals();
     } catch (error) {
       setMessage(error instanceof Error ? error.message : "确认没有保存成功。");
