@@ -5,6 +5,8 @@ import type { CSSProperties } from "react";
 import type { Map as LeafletMap, LayerGroup } from "leaflet";
 import TreeIcon from "./TreeIcon";
 import { iconForSpecies } from "./speciesIcons";
+import LocationLedger from "./LocationLedger";
+import type { LocationListResponse, VerifiedLocation } from "./location-types";
 
 type TreeRecord = {
   uid: string;
@@ -108,6 +110,7 @@ export default function TreeExplorer() {
   const [grade, setGrade] = useState("全部级别");
   const [selected, setSelected] = useState<TreeRecord | null>(null);
   const [mapReady, setMapReady] = useState(false);
+  const [verifiedLocations, setVerifiedLocations] = useState<Map<string, VerifiedLocation>>(new Map());
   const mapElementRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<LeafletMap | null>(null);
   const pointsRef = useRef<LayerGroup | null>(null);
@@ -120,6 +123,18 @@ export default function TreeExplorer() {
       })
       .then(setData)
       .catch(() => setData(null));
+  }, []);
+
+  useEffect(() => {
+    fetch("/api/locations", { cache: "no-store" })
+      .then((response) => response.json() as Promise<LocationListResponse>)
+      .then((body) => {
+        if (!body.locations) return;
+        setVerifiedLocations(new Map(body.locations.map((location) => [location.treeId, location])));
+      })
+      .catch(() => {
+        // The public catalogue remains usable if the contribution service is unavailable.
+      });
   }, []);
 
   useEffect(() => {
@@ -186,16 +201,20 @@ export default function TreeExplorer() {
       const renderer = L.canvas({ padding: 0.5 });
       filtered.forEach((tree) => {
         const presence = treePresence(tree);
-        L.circleMarker([tree.lat, tree.lng], {
+        const verified = verifiedLocations.get(tree.uid);
+        const point: [number, number] = verified
+          ? [verified.latitude, verified.longitude]
+          : [tree.lat, tree.lng];
+        L.circleMarker(point, {
           renderer,
-          radius: 3.1 + presence * 3.1,
+          radius: 3.1 + presence * 3.1 + (verified ? 1.4 : 0),
           color: "#fffdf5",
-          weight: 0.7,
-          fillColor: treeTone(tree),
-          fillOpacity: 0.72 + clamp(((tree.age ?? 100) - 100) / 900) * 0.18,
+          weight: verified ? 1.4 : 0.7,
+          fillColor: verified ? "#875542" : treeTone(tree),
+          fillOpacity: verified ? 0.94 : 0.72 + clamp(((tree.age ?? 100) - 100) / 900) * 0.18,
         })
           .bindTooltip(
-            `<strong>${tree.species} · ${tree.age ?? "树龄未详"}${tree.age ? " 年" : ""}</strong><br>${tree.catalog} · ${tree.number}`,
+            `<strong>${tree.species} · ${tree.age ?? "树龄未详"}${tree.age ? " 年" : ""}</strong><br>${tree.catalog} · ${tree.number}${verified ? `<br>社区核实位置 · ${verified.confirmationCount} 人确认` : ""}`,
             { direction: "top", offset: [0, -4] },
           )
           .on("click", () => setSelected(tree))
@@ -205,7 +224,7 @@ export default function TreeExplorer() {
     return () => {
       cancelled = true;
     };
-  }, [filtered, mapReady]);
+  }, [filtered, mapReady, verifiedLocations]);
 
   const counts = useMemo(() => {
     const result = { 一级: 0, 二级: 0, 三级: 0 };
@@ -292,7 +311,20 @@ export default function TreeExplorer() {
 
   function focusTree(tree: TreeRecord) {
     setSelected(tree);
-    mapRef.current?.flyTo([tree.lat, tree.lng], 13, { duration: 0.8 });
+    const verified = verifiedLocations.get(tree.uid);
+    mapRef.current?.flyTo(
+      [verified?.latitude ?? tree.lat, verified?.longitude ?? tree.lng],
+      verified ? 17 : 13,
+      { duration: 0.8 },
+    );
+  }
+
+  function recordVerifiedLocation(location: VerifiedLocation) {
+    setVerifiedLocations((current) => {
+      const next = new Map(current);
+      next.set(location.treeId, location);
+      return next;
+    });
   }
 
   return (
@@ -333,12 +365,13 @@ export default function TreeExplorer() {
           <div ref={mapElementRef} className="map" aria-label="苏州古树分布示意地图" />
           <div className="map-note">
             <span aria-hidden="true">◎</span>
-            <div><strong>点位说明</strong><p>官方附件未含经纬度，地图点位为地区级分布示意；精确位置请查看地址。</p></div>
+            <div><strong>点位说明</strong><p>普通点为地区级示意；赭色描边点已经至少三位探寻者确认。</p></div>
           </div>
           <div className="legend" aria-label="古树级别图例">
             {(["一级", "二级", "三级"] as const).map((item) => (
               <span key={item}><i style={{ background: gradeColors[item] }} />{item}</span>
             ))}
+            <span className="verified-legend"><i />位置已核实</span>
           </div>
         </div>
 
@@ -495,6 +528,11 @@ export default function TreeExplorer() {
                     <p className="measure-caption">线由小到大表示该项数值在同树种有效记录中的位置；并列数值同名次，少于 5 株不显示排名。</p>
                   </div>
                 </div>
+
+                <LocationLedger
+                  tree={monumentTree}
+                  onVerifiedLocation={recordVerifiedLocation}
+                />
 
                 {isWenmiao && (
                   <div className="story-constellation" aria-label="这株树周围的人与记忆">
